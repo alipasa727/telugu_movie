@@ -76,6 +76,7 @@
 
 ### 作品一覧
 
+- [Baahubali 2: The Conclusion（2017）／バーフバリ 王の凱旋](movies/Baahubali-2-2017/movie.md)：台詞3件・歌詞3曲。
 - [RRR（2022／テルグ語原語版）](movies/RRR/movie.md)
 
 ### タミル語版から引き継いだ参考ノート
