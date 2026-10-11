@@ -76,6 +76,7 @@
 
 ### 作品一覧
 
+- [Kalki 2898 AD（2024）／カルキ 2898-AD](movies/Kalki-2898-AD-2024/movie.md)：台詞1件・歌詞3曲。
 - [Pushpa: The Rise – Part 1（2021）／プシュパ 覚醒](movies/Pushpa-The-Rise-2021/movie.md)：台詞2件・歌詞5曲。
 - [Baahubali 2: The Conclusion（2017）／バーフバリ 王の凱旋](movies/Baahubali-2-2017/movie.md)：台詞3件・歌詞3曲。
 - [RRR（2022／テルグ語原語版）](movies/RRR/movie.md)
