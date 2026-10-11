@@ -8,6 +8,22 @@
 
 台詞・歌詞を自作せず、作品中の表現を調べるための参照先です。用途に応じて、本編の音声、掲載された原文、辞書を使い分けます。
 
+## テルグ語版：Baahubali前編の調査
+
+追加確認日：2026年10月12日。以下は新規に調べたテルグ語の資料です。この後にあるタミル語資料の取得・照合結果を転用していません。
+
+| 資料 | 確認した内容・用途 | 確認の限界 |
+| --- | --- | --- |
+| [Telugu Bucket：Baahubali 1 の台詞集](https://telugubucket.com/prabhas-baahubali-1-telugu-movie-dialogues/) | ウェブ本文の作品名とテルグ文字を確認。第10項から短い宣言を引用 | 公式台本ではない。別の項目には誤記の可能性があり、本文全体を正確と保証しない。話者・本編音声は未照合 |
+| [Filmibeat：2015年の演説紹介記事](https://telugu.filmibeat.com/news/dev-katta-s-inspirational-dialogue-baahubali-046825.html) | 本文で戦場の演説という説明と原文を確認 | 正確な時刻・本編字幕は未確認 |
+| [Filmibeat：Baahubali の台詞欄](https://telugu.filmibeat.com/movies/baahubali/dialogues.html) | 2015年のテルグ語作品表示と掲載原文を確認 | 引用ごとの発話者が明示されておらず、本編での確認が必要 |
+| [LyricsTape：Mamatala Talli](https://www.lyricstape.com/album/baahubali-the-begining-mamatala-talli-song-lyrics/571/1109)、[Dhivara](https://www.lyricstape.com/album/baahubali-the-begining-dhivara-song-lyrics/571/1112)、[Jeeva Nadhi](https://www.lyricstape.com/album/baahubali-the-begining-jeeva-nadhi-song-lyrics/571/1113)、[Pacha Bottasina](https://www.lyricstape.com/album/baahubali-the-begining-pacha-bottasina-song-lyrics/571/1108) | 4ページとも曲名・2015年の作品情報・テルグ文字の歌詞をウェブ本文で確認 | 非公式の歌詞掲載サイト。綴り・改行・歌手表記を公式歌詞や音声と照合したわけではない |
+| [Brown：A Grammar of the Telugu Language（1857、第2版）のデジタル転載](https://www.scribd.com/document/318810861/A-Grammar-of-the-Telugu-Language-pdf) | 原著の書誌情報と規則の本文を確認。pp.68–70、91–95、168、172–175、200–203、244–245、252–254などを参照 | 古い文法書。OCRのテルグ文字には崩れがある。一般規則と現代口語の個別分析を区別する |
+| [Wiktionary](https://en.wiktionary.org/wiki/మాట) | 各ノートで挙げた語の項目本文を確認。語義確認の補助 | 共同編集辞書。文法書・大学資料や公式字幕とは区別する。項目が取得できなかった語は未確認として残す |
+| [シカゴ大学：Brown辞書](https://dsal.uchicago.edu/dictionaries/brown/) | ウェブツールで1903年版の書誌情報と検索画面を確認。一部の検索ページも取得 | 多くの個別検索は取得できなかった。辞書の入口の取得を全語の語義確認と扱わない。ローカル取得の成功や音声照合も意味しない |
+
+掲載箇所・引用・訳・文法規則への当てはめは [前編の作品ページ](movies/Baahubali-The-Beginning-2015/movie.md) と各ノートに記録しています。取得できなかった資料の文章や、未照合の場面・時刻を生成で補っていません。
+
 ## テルグ語原語版：Pushpa 前編の調査
 
 確認日：2026年10月11日。[前編の作品フォルダ](movies/Pushpa-The-Rise-2021/movie.md)に台詞2件・歌詞5曲の解説を追加しました。[作品別の資料記録](movies/Pushpa-The-Rise-2021/sources.md)に、採用原文の掲載箇所、辞書と文法資料の節・ページ、確認方法と追加照合事項をまとめています。映画記事・歌詞サイトの本文と文法の一般規則を今回確認し、原文への当てはめと本編の音声・字幕の確認を区別しました。本編・音声・字幕は未照合です。
