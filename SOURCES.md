@@ -4,6 +4,31 @@
 
 台詞・歌詞を自作せず、作品中の表現を調べるための参照先です。用途に応じて、本編の音声、掲載された原文、辞書を使い分けます。
 
+## テルグ語原語版：RRRの調査
+
+確認日：2026年10月11日。[RRRの作品ページ](movies/RRR/movie.md) と3件の台詞解説を追加した。以下は今回新たに本文を確認したテルグ語の資料で、後述するタミル語資料の確認結果とは別である。
+
+| 資料名・種類・URL | 本文で確認した箇所 | 利用範囲 |
+| --- | --- | --- |
+| [Filmibeat：RRR Dialogues](https://telugu.filmibeat.com/movies/rrr-roudram-ranam-rudhiram/dialogues.html)／台詞集 | 作品名・言語・公開日、「డైలాగ్」の虎・狩人についての項目 | 001・002の掲載原文。話者・相手・時刻は当該項目に記載がない |
+| [OkTelugu：RRR Movie Dialogues in Telugu](https://oktelugu.com/news/rrr-movie-dialogues-in-telugu-202085.html)／Shiva、2022年4月12日／映画記事 | 「చరణ్:」で始まる逮捕の文、虎・狩人についての項目 | 003の短い抜粋、001・002の別掲載との比較。002の末尾の呼びかけに表記差あり |
+| [Brown：A Telugu-English Dictionary（1903）](https://dsal.uchicago.edu/dictionaries/brown/)／シカゴ大学DSAL掲載の歴史的辞書 | 表紙案内・書誌、および検索で取得したపులి p.778、పట్టు p.702、వేట p.1226、పని p.712、చేయు p.435、కలుగు p.259、ఒకడు p.206の本文 | 語義。వేటగాడు・గలుగు・కావలెను・ఒక్కడుの完全一致検索は結果なしであり、その形の辞書確認ができたとは扱わない |
+| [Arden：A Progressive Grammar of the Telugu Language（1905、第2版）](https://archive.org/details/aprogressivegra00ardegoog)／文法書 | 公開OCR本文の§171 p.69、§183 p.72、§249 pp.92–93、§263–264 p.97、§383 p.151、§437 p.176、§460 p.185、§540–544 pp.217–220 | 格・人称・強調・進行形・必要・能力・連体形と名詞化。OCRのテルグ文字に崩れがあるため英語の規則説明を参照。古い規則と現代口語形の細部の確認を区別する |
+| [AVSDS Mahesh：Features of Telugu Grammar（2021）](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf)／IIT Kanpurの個人ページ掲載の文法概説 | PDF全40ページのうちスライド15「Declensions」、32「Other tenses/voices」 | 対格 -ni/-nu、進行形、能力の補助動詞の一般規則。文語形を含み、大学公式教科書や現代口語専用の資料とは扱わない |
+| [Mirchi Bajji：耳で学ぶRRRのテルグ語](https://note.com/telugu/n/n6e1df8df5af2)／個人の語学解説、2023年3月21日 | 「03 PULINI PATTUKOVALANTE」。01～04は予告クリップによるとする注記も確認 | 001の現代形の分解・訳の補助。002相当の後続部分は別の語が掲載されているため原文として採用していない。投稿者の音声確認を自分の確認として転記しない |
+
+### 取得記録と照合の限界
+
+Filmibeat・OkTelugu・Mirchi Bajji・Brown辞書の本文は、この実行環境でHTTPS取得し、元HTML・行番号付きの抽出本文・URL・取得時刻・SHA-256を `/workspace/.telugu-movie-output/sources/` に保存した。HTTP成功だけではなく、上表の実際の見出し・原文・語義を読んで確認した。Brown辞書には同綴りで意味の異なる見出しがあり、పులిは「酸っぱい」ではなく第2見出しの「虎」を参照した。
+
+Filmibeatの保存識別子は `20261011T082452965600Z-6cb7783f181a`（抽出本文の行81）、OkTeluguは `20261011T082454996662Z-2dc2e18ae286`（行62・86・88）、Mirchi Bajjiは `20261011T082719661896Z-1dddc2c54570`。これらは取得時の証拠であり、第三者サイトの本文全体をGitへ転載していない。
+
+Ardenの公開OCRは Internet Archive の当該書籍の `_djvu.txt` として取得した（SHA-256：`20653de266fcdc2cfe9b17fb84e5cd7b3bb4df16205a61d60ade9e4ba4c6a8d4`）。書誌・ページ情報も取得したが、スキャンPDFの取得は配信先のHTTP 500で失敗し、紙面画像との照合はできていない。MaheshのPDFは取得し、必要な節の本文を確認した。
+
+実行環境からの最初のFilmibeat取得はネットワーク権限不足で失敗したが、ネットワークアクセスを付けた同じ取得で本文を確認できた。Brown文法書のWikimedia PDFはHTTP 403で取得できず、Wikisourceの一部ページも未作成だった。その本文を読めたとは記録せず、上記のArden文法書と取得できた概説を採用した。
+
+本編の映像・音声・字幕との照合は今回実施していない。001の条件表現、002の現代形の細かい活用と限定の意味範囲は、各ノートの追加照合事項に残した。文法の一般規則と、映画の具体的な発言への当てはめは別である。
+
 ## 参照先と用途
 
 | サイト・資料 | 使える用途 | 今回の確認と使う際の注意 |
