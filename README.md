@@ -106,4 +106,4 @@ movies/
 - [Pushpa: The Rise – Part 1（2021）／プシュパ 覚醒](movies/Pushpa-The-Rise-2021/movie.md)：台詞2件・歌詞5曲。
 - [Baahubali 2: The Conclusion（2017）／バーフバリ 王の凱旋](movies/Baahubali-2-2017/movie.md)：台詞3件・歌詞3曲。
 - [Baahubali: The Beginning（2015）／バーフバリ 伝説誕生](movies/Baahubali-The-Beginning-2015/movie.md)：台詞4件・歌詞4曲。
-- [RRR（2022／テルグ語原語版）](movies/RRR/movie.md)
+- [RRR（2022／テルグ語原語版）](movies/RRR/movie.md)：台詞6件・歌詞1曲。
