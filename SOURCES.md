@@ -1,6 +1,6 @@
 # 調査に使えるサイト
 
-調査日：2026年10月11日
+調査日：2026年10月11日（追加確認：2026年10月14日）
 
 ## 調査記録の概要
 
@@ -74,6 +74,26 @@ Ardenの公開OCRは Internet Archive の当該書籍の `_djvu.txt` として�
 実行環境からの最初のFilmibeat取得はネットワーク権限不足で失敗したが、ネットワークアクセスを付けた同じ取得で本文を確認できた。Brown文法書のWikimedia PDFはHTTP 403で取得できず、Wikisourceの一部ページも未作成だった。その本文を読めたとは記録せず、上記のArden文法書と取得できた概説を採用した。
 
 本編の映像・音声・字幕との照合は今回実施していない。001の条件表現、002の現代形の細かい活用と限定の意味範囲は、各ノートの追加照合事項に残した。文法の一般規則と、映画の具体的な発言への当てはめは別である。
+
+### 追加候補の利用確認（2026年10月14日）
+
+ユーザー提示の4件をHTTPS取得し、記事本文の作品名と掲載形式を確認した。台詞・歌詞の掲載資料としての利用判断であり、辞書・文法書の代わりにはしない。本編・公式音源との照合は未実施。
+
+| 資料・種類 | 本文で確認した箇所 | 利用判断・注意 |
+| --- | --- | --- |
+| [TeluguBucket：RRR Dialogues in Telugu](https://telugubucket.com/rrr-movie-telugu-dialogues/)／台詞集 | 同名の見出し、台詞本文、「Bheem For RamaRaju Dialogue」「RamaRaju For Bheem Dialogue」 | 文字で原文を取得でき、短い抜粋の解説に使える。OkTeluguとの表記差があり、読者コメントにも本文とは異なる読みがある。コメントを確定原文として採用せず、採用した掲載文と異なる形を分けて記録する |
+| [FilmyFocus：RRR Movie Powerful Dialogues](https://telugu.filmyfocus.com/rrr-movie-powerful-dialogues/amp)／Filmy Focus、2022年3月30日／映画記事 | 作品名・記事日付、台詞1〜20の番号、各番号に対応する画像参照 | 候補として保存するが、原文の採用は保留。台詞は画像内にあり、HTML抽出本文には出ない。実行環境で画像1〜3の掲載URLを取得したところ全てHTTP 404で、文字を確認できなかった。画像4〜20は取得未実施。画像を読めた場合に番号と掲載文を記録する |
+| [OkTelugu：RRR Movie Dialogues in Telugu](https://oktelugu.com/news/rrr-movie-dialogues-in-telugu-202085.html)／Shiva、2022年4月12日／映画記事 | 台詞本文、逮捕の文、虎・狩人の文、後続の能力表現 | 既存ノート003の出典、001・002の比較資料として使用済み。今回も掲載文を再確認。俳優名のラベルはあるが、音声・話者・時刻の確認とは区別する |
+| [BharatLyrics：Etthara Jenda Lyrics](https://bharatlyrics.com/etthara-jenda-lyrics/)／2022年4月2日／歌詞掲載サイト | 「ఎత్తర జెండా Lyrics in Telugu」内のテルグ文字の歌詞、RRRへの帰属、Song Creditsの作詞者・作曲者・レーベル欄 | テルグ文字の短い抜粋を使う歌詞解説の出典にできる。「English」欄は日本語訳の根拠にせず、テルグ文字を優先する。クレジットはサイトの掲載情報として扱い、公式歌詞・公式音源との照合は別に行う |
+
+TeluguBucketとOkTeluguには共通する文と、語形・分かち書きの違いがある。転載関係は未確認で、二つの掲載サイトがあるだけでは独立した裏付けとして数えない。記事の表記を無断で訂正したり、別の掲載文をつなぎ合わせたりせず、相違点を確認事項として残す。
+
+今回の元HTML・行番号付き抽出本文・取得URLと時刻・SHA-256は `/workspace/.telugu-movie-output/sources/` に保存した。保存識別子と確認箇所は次のとおり。抽出本文の行番号は今回の保存データに対応し、前回取得した記事の行番号とは異なる。
+
+- TeluguBucket：`20261014T144028497785Z-376b6f077f35`、本文の行67〜92、コメントの行121〜125。
+- FilmyFocus：`20261014T144029328648Z-4152c177fc46`、本文の行25〜51。元HTMLで画像1〜20の参照URLを確認した。取得を試したのは `RRR-Movie-Powerful-Dialogues-1.jpg`〜`-3.jpg` の3件。
+- OkTelugu：`20261014T144028052057Z-08c2c245c35d`、本文の「RRR Movie Dialogues in Telugu」内の逮捕・虎・狩人・能力の項目。
+- BharatLyrics：`20261014T144031864899Z-a733ddf2a9ee`、テルグ文字の歌詞は行144〜189、Song Creditsは行203〜223。
 
 ## このノートでの調べ方
 

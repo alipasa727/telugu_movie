@@ -37,6 +37,12 @@
 | [AVSDS Mahesh：Features of Telugu Grammar（2021）](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf) | IIT Kanpurの個人ページ掲載の文法概説。スライド15・32 | 対格、進行形の構成、能力を表す補助動詞。文語形を含み、大学の公式教科書とは扱わない |
 | [Mirchi Bajji：耳で学ぶRRRのテルグ語](https://note.com/telugu/n/n6e1df8df5af2) | 個人の映画語学解説。「03 PULINI PATTUKOVALANTE」 | 001の現代形の分解と訳を補助的に参照。掲載文の相違は001・002に記録 |
 
+## 追加の原文候補
+
+2026年10月14日に [TeluguBucketの台詞集](https://telugubucket.com/rrr-movie-telugu-dialogues/)、[FilmyFocusの台詞記事](https://telugu.filmyfocus.com/rrr-movie-powerful-dialogues/amp)、[BharatLyricsのEtthara Jenda歌詞](https://bharatlyrics.com/etthara-jenda-lyrics/) を確認し、OkTeluguも再確認した。
+
+TeluguBucketとBharatLyricsは文字として掲載原文を読めるため、今後の台詞・歌詞解説の出典に使える。FilmyFocusは台詞が画像で、試した画像1〜3のURLはHTTP 404だったため原文の採用は保留。各資料の確認箇所・表記比較の注意・取得記録は [追加候補の利用確認](../../SOURCES.md#追加候補の利用確認2026年10月14日) にまとめた。
+
 ## 読む際の区別
 
 掲載本文で原文と作品への帰属を確認できたことと、実際の音声・字幕が一致することは別である。話者・相手・時刻は、掲載資料が示す範囲だけを記録した。
