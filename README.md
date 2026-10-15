@@ -83,7 +83,7 @@
 
 ## ノートの整理
 
-作品ごとにフォルダを作り、作品情報とノートの一覧は各作品の `movie.md` にまとめます。台詞は `dialogue/dialogue.md` の1ファイルにまとめ、台詞ごとの見出しの下に原文・訳・文法解説・出典を記録します。新しい台詞も同じファイルに追記します。歌詞は `songs/` に曲ごとに1つのMarkdownファイルを保存し、同じ曲の抜粋・解説はそのファイルに追記します。新しい作品には [ひな形](movies/_template/movie.md) を使います。
+作品ごとにフォルダを作り、作品情報とノートの一覧は各作品の `movie.md` にまとめます。台詞は `dialogue/dialogue.md` の1ファイルにまとめ、台詞ごとの見出しの下に原文・訳・文法解説・出典を記録します。新しい台詞も同じファイルに追記します。歌詞は `songs/` に曲ごとに1つのMarkdownファイルを保存し、同じ曲の抜粋・解説はそのファイルに追記します。ファイル名は `Saahore-Baahubali.md` のように曲名を使い、先頭の見出しも曲名だけにします。番号や解説テーマをタイトルに付けません。新しい作品には [ひな形](movies/_template/movie.md) を使います。
 
 ```text
 movies/
@@ -92,13 +92,13 @@ movies/
     ├── dialogue/
     │   └── dialogue.md  # この作品の台詞を1ファイルにまとめる
     └── songs/
-        ├── 001.md      # 1曲目
-        └── 002.md      # 2曲目
+        ├── Song-Title.md
+        └── Another-Song.md
 ```
 
 個別の台詞・曲名や確認の進み具合は、各作品のページで管理します。
 
-作業ルール・保存先・アクセス範囲は [AGENTS](AGENTS.md)、出典と確認記録は [SOURCES](SOURCES.md) にまとめています。台詞の追加には [台詞ひな形](movies/_template/dialogue/dialogue.md)、曲の追加には [歌詞ひな形](movies/_template/songs/001.md) を使います。
+作業ルール・保存先・アクセス範囲は [AGENTS](AGENTS.md)、出典と確認記録は [SOURCES](SOURCES.md) にまとめています。台詞の追加には [台詞ひな形](movies/_template/dialogue/dialogue.md)、曲の追加には [歌詞ひな形](movies/_template/songs/Song-Title.md) を使います。
 
 ### 作品一覧
 

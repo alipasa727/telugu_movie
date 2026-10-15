@@ -1,4 +1,4 @@
-# 歌詞005：Oo Antava Oo Oo Antava — 二人称の疑問
+# Oo Antava Oo Oo Antava
 
 ## 曲と出典
 

@@ -1,4 +1,4 @@
-# 歌詞 003：Bhairava Anthem — 歩みと戦い
+# Bhairava Anthem
 
 ## 曲と出典
 

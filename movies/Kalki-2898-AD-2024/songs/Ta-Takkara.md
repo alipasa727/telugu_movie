@@ -1,4 +1,4 @@
-# 歌詞 002：Ta Takkara — 私の世界
+# Ta Takkara
 
 ## 曲と出典
 

@@ -1,4 +1,4 @@
-# 歌詞003：Saami Saami — 所有の形と呼びかけ
+# Saami Saami
 
 ## 曲と出典
 
@@ -47,7 +47,7 @@
 
 ## 4. 歌の役割と未確認事項
 
-[作詞家のインタビュー](https://indiaglitz.com/writing-lyrics-of-pushpa-was-not-easy-at-all-chandrabose-telugu-news-302788)は、この曲がプシュパからシュリーヴァッリへの呼び方をきっかけに作られたと説明しています。女性側から相手を慕う歌として読むと、[Srivalli](002.md)の男性側の強がりと、視点の違いが見えてきます。これは歌の前後とインタビューを踏まえた解釈です。
+[作詞家のインタビュー](https://indiaglitz.com/writing-lyrics-of-pushpa-was-not-easy-at-all-chandrabose-telugu-news-302788)は、この曲がプシュパからシュリーヴァッリへの呼び方をきっかけに作られたと説明しています。女性側から相手を慕う歌として読むと、[Srivalli](Srivalli.md)の男性側の強がりと、視点の違いが見えてきます。これは歌の前後とインタビューを踏まえた解釈です。
 
 発音・標準形との対応・時刻は未確認。日常にも応用できる文法は「所有の形＋名詞」ですが、歌の呼びかけの強さや親密さは相手との関係に依存します。
 

@@ -1,4 +1,4 @@
-# 歌詞004：Eyy Bidda Idhi Naa Adda — 名詞の述語
+# Eyy Bidda Idhi Naa Adda
 
 ## 曲と出典
 

@@ -1,4 +1,4 @@
-# 歌詞 003：Kannaa Nidurinchara — 山を支えた君
+# Kannaa Nidurinchara
 
 ## 曲と出典
 

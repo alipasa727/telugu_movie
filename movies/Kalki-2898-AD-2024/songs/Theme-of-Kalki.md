@@ -1,4 +1,4 @@
-# 歌詞 001：Theme of Kalki — 私たちへの助け
+# Theme of Kalki
 
 ## 曲と出典
 

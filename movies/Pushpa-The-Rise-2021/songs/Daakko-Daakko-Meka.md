@@ -1,4 +1,4 @@
-# 歌詞001：Daakko Daakko Meka — 対格と語順
+# Daakko Daakko Meka
 
 ## 曲と出典
 

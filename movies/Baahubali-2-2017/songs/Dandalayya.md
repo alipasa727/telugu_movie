@@ -1,4 +1,4 @@
-# 歌詞 001：Dandalayya — 私たちと一緒にいてほしい
+# Dandalayya
 
 ## 曲と出典
 

@@ -1,4 +1,4 @@
-# Dheevara（Dhivara）— 提示歌詞の通し訳と解説（繰り返し省略）
+# Dheevara
 
 ## 1. 通しの自然な日本語訳
 

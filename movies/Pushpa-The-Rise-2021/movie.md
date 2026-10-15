@@ -30,11 +30,11 @@
 
 | ノート | 採用箇所の意味 | 学ぶ内容 |
 | --- | --- | --- |
-| [001：Daakko Daakko Meka](songs/001.md) | 山羊は葉を食べる | 対格 -ను、目的語・動詞・主語の並び |
-| [002：Srivalli](songs/002.md) | 言葉が宝石になる | 強調の -ఏ、比喩、詩的な動詞形 |
-| [003：Saami Saami](songs/003.md) | 恋人への呼びかけ | 所有の నా、名詞句と反復 |
-| [004：Eyy Bidda Idhi Naa Adda](songs/004.md) | ここは自分の地盤だ | 指示代名詞、所有、連結動詞を明示しない文 |
-| [005：Oo Antava Oo Oo Antava](songs/005.md) | 同意するかと問いかける | 二人称単数、疑問の -ఆ、問いの語調 |
+| [001：Daakko Daakko Meka](songs/Daakko-Daakko-Meka.md) | 山羊は葉を食べる | 対格 -ను、目的語・動詞・主語の並び |
+| [002：Srivalli](songs/Srivalli.md) | 言葉が宝石になる | 強調の -ఏ、比喩、詩的な動詞形 |
+| [003：Saami Saami](songs/Saami-Saami.md) | 恋人への呼びかけ | 所有の నా、名詞句と反復 |
+| [004：Eyy Bidda Idhi Naa Adda](songs/Eyy-Bidda-Idhi-Naa-Adda.md) | ここは自分の地盤だ | 指示代名詞、所有、連結動詞を明示しない文 |
+| [005：Oo Antava Oo Oo Antava](songs/Oo-Antava-Oo-Oo-Antava.md) | 同意するかと問いかける | 二人称単数、疑問の -ఆ、問いの語調 |
 
 ## 映画・歌を読むための背景
 

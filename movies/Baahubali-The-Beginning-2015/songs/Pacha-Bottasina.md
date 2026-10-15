@@ -1,4 +1,4 @@
-# Pacha Bottasina — あなたと若さを分かち合う（全文訳・繰り返し省略）
+# Pacha Bottasina
 
 ## 1. 通しの自然な日本語訳（繰り返し省略）
 
