@@ -28,18 +28,14 @@
 | [Telugu Song Lyrics：Hamsa Naava - Bahubali 2](https://telugulyrics-paatalasaahithyam.blogspot.com/2017/04/hamsa-naava-baahubali.html) | 歌詞ブログ。2017年4月7日。冒頭の問いかけの行 | 本文の曲名・作品名・作詞者表示・採用行を確認。公式資料ではない |
 | [TeluguLyrics：Kannaa Nidurinchara](https://telugulyrics.com/lyrics/kannaa-nidurinchara/) | 歌詞サイト。テルグ文字欄の、山を支えた相手を修飾する部分 | 作品名・曲名・作詞者表示・採用文字を本文で確認。欄の名称は「Telugu Transliteration」だが、実際の文字がテルグ文字であることを確認 |
 
-## 比較資料と原典候補
+## 採用原文の比較資料
 
 | 資料 | 確認した内容 | 使い方 |
 | --- | --- | --- |
 | [TeluguLyrics：Dandaalayyaa](https://telugulyrics.com/lyrics/dandaalayyaa/) | 同じ曲と作品への帰属、作詞者表示とテルグ文字欄を本文で確認 | 主語の表記・分かち書きの比較に使用。比較資料の表記を主資料へ混ぜない |
 | [TeluguLyrics：Hamsa Naava](https://telugulyrics.com/lyrics/hamsa-naava/) | 同じ曲と作品への帰属、作詞者表示とテルグ文字欄を本文で確認 | 採用行の最初の語の母音表記が主資料と異なる。音声での確認事項に残す |
-| [AllIndiaRoundup：後編テルグ語台詞10選](https://allindiaroundup.com/movies/best-dialogues-from-baahubali-2-the-conclusion-telugu-version/) | Saicharan Palakurthi、2017年5月4日。作品と台詞のローマ字表記を本文で確認 | テルグ文字原文としては採用しない。ほかの資料と文の内容が異なる例もあり、表記を合成しない |
 | [Webdunia：予告編の台詞の言い方を論じる記事](https://telugu.webdunia.com/telugu-cinema-news/baahubali-2-trailer-out-dialogue-error-in-baahubali-2-the-conclusion-trailer-117031700030_1.html) | Selvi、2017年3月17日。台詞003に対応する掲載文と記事の議論を本文で確認 | 時制や「まだ」への記事の評価は、テルグ語の文法規則の根拠に使用しない |
-| [Apple Music：Baahubali 2 サウンドトラック](https://music.apple.com/td/album/baahubali-2-the-conclusion-original-motion-picture/1219281887) | 検索結果で TELUGU・2017、5曲、Lahari Recording Company などの権利表示と対象3曲を確認 | 配信音源の版を探す原典候補。ページ本文の再確認・再生・歌詞照合は未実施 |
-| [Baahubali 2 - The Conclusion Trailer](https://www.youtube.com/watch?v=qD-6d8Wo3do) | 検索結果で作品名・公開時期と各言語版への案内を確認 | 予告編候補。投稿元の確認・実際の音声言語・字幕の種類・該当語の照合は未実施で、原文の根拠にはしていない |
 
-本編・制作会社の公式予告編・公式音源・原語字幕も原典候補です。今回は採用できる音声・字幕の本文を取得・照合できていないため、特定の版や時刻を記入していません。将来照合した際は投稿元・言語・版・字幕の種類・時刻・確認した語句を追記します。
 
 ## 文法資料
 

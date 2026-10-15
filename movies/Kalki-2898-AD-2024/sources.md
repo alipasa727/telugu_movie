@@ -40,22 +40,8 @@ Wiktionaryは共同編集の辞書です。原辞書名・ページが参照欄�
 
 [Gwynnのテルグ語・英語辞書](https://dsal.uchicago.edu/dictionaries/gwynn/)と[Brown辞書](https://dsal.uchicago.edu/dictionaries/brown/)は、大学の辞書検索入口と書誌情報をウェブ本文で確認しました。検索結果の個別項目を取得できなかったため、今回の語義をこの両辞書の直接確認済みとはしません。
 
-## 作品情報と音声照合の候補
+## 辞書・文法資料の取得範囲
 
-| 資料 | 今回の確認 |
-| --- | --- |
-| [Apple TV・インド向け作品ページ](https://tv.apple.com/in/movie/kalki-2898-ad/umc.cmc.3obvhrozzo3fjt9o52bvmdtdw) | 公開年・監督・制作・Original AudioのTeluguを本文で確認。再生は未実施。日本向け提供・利用条件は未調査 |
-| [Vyjayanthi Movies：テルグ語公開予告編](https://www.youtube.com/watch?v=-rTzyZZGJ84) | 検索の投稿情報で作品・テルグ語版・公開日を確認。本編全台詞の資料としては使わず、字幕・音声は未照合 |
-| [Theme of Kalki・テルグ語公式動画候補](https://www.youtube.com/watch?v=RZysj-443-8) | 検索の投稿情報で曲と版を確認。検索で得た作詞欄と掲載歌詞サイトの記載が異なり、実際の動画クレジットで再確認が必要 |
-
-YouTubeが前の調査で取得できなかったという結果は、この作品の検証結果に転記していません。今回も動画を実際に再生して照合したとは記録していません。
-
-## 採用しなかった資料・取得の限界
-
-- [Filmibeatの作品別台詞ページ](https://telugu.filmibeat.com/movies/kalki-2898-ad/dialogues.html)は本文を取得できましたが、台詞見出しの下に原文が抽出されず、引用の根拠には使っていません。
-- [Filmy Focusの台詞集](https://telugu.filmyfocus.com/kalki-2898-ad-movie-best-dialogues)は本文の作品帰属を確認しました。台詞は画像中心で、画像の文字を未読のため原文確認済みにはしていません。
-- [Pitta Kathaluの台詞集](https://pittakathalu.in/kalki-2898-ad-dialogues-these-are-the-top-dialogues-that-gave-goosebumps/)はローマ字中心でした。テルグ文字を生成して補う引用には使っていません。
-- Hope of Shambalaはローマ字の掲載資料と音楽サービスの曲情報を確認しましたが、今回はテルグ文字の原文ノートを作っていません。
 - ペンシルベニア大学のテルグ語教材入口、CIILの教材候補、Brown文法PDFの直接取得は失敗しました。それらの教材本文を確認済みとして引用していません。
 - 実行環境から辞書のHTMLを取得する処理は接続エラーでした。辞書入口を確認したのはウェブ検索ツールです。成功した取得経路と失敗した取得経路を区別しています。
 

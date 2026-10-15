@@ -118,7 +118,7 @@ Mirchi Bajjiの掲載文では狩人の語を分かち書きし、後続文もFi
 
 #### 前半の理由を読む
 
-政府に「向き合って、逆らった」という部分が「罪」を修飾し、その罪を理由として告知へ続く。[Arden](https://archive.org/details/aprogressivegra00ardegoog)§262 p.97（過去の連体形）・§513 pp.206–207（名詞への修飾）と、[Mahesh](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf#page=15)スライド15の格の一般規則を参照。今回の「罪で」はこの文への当てはめである。追加の辞書確認結果は [調査記録](../../../SOURCES.md) に記載した。
+政府に「向き合って、逆らった」という部分が「罪」を修飾し、その罪を理由として告知へ続く。[Arden](https://archive.org/details/aprogressivegra00ardegoog)§262 p.97（過去の連体形）・§513 pp.206–207（名詞への修飾）と、[Mahesh](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf#page=15)スライド15の格の一般規則を参照。今回の「罪で」はこの文への当てはめである。追加の辞書確認結果は [辞書・文法資料](../../../SOURCES.md) に記載した。
 
 ### 背景や要確認箇所等の補足
 

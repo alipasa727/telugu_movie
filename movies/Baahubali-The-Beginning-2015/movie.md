@@ -36,16 +36,12 @@
 
 現在の歌詞ノートはPacha BottasinaとDheevaraの2曲です。Pacha Bottasinaは提示された9連・31行、Dheevaraは9連・49行を対象に、曲ごとに1ファイルにまとめています。同じサビは最初の一度だけ掲載し、繰り返す箇所は位置を示して省略しています。Dheevaraの讃歌には提示表記から文意を確定できない連があり、暫定訳と訳の保留を明示しています。通しの自然な訳・原文・直訳・注記・文法解説の順に読めます。綴りが不明瞭な箇所の推定は注記に分けています。
 
-## 原典・参照資料
+## 辞書・文法の参照先
 
-追加した4ページの用途、本文・検索保存本文の確認、表記差の扱いは [作品別の資料記録](sources.md) にまとめています。
+文法の参照箇所と確認範囲は [作品別の資料記録](sources.md) にまとめています。
 
 | 資料 | 用途・確認した箇所 | 確認状況 |
 | --- | --- | --- |
-| [Telugu Bucket：Baahubali 1 Telugu Movie Dialogues](https://telugubucket.com/prabhas-baahubali-1-telugu-movie-dialogues/) | 作品名を明示する見出しと第10項の台詞 | ウェブ本文で確認。記事全体を公式台本とは扱わない |
-| [Filmibeat：Dev Katta's inspirational dialogue in Baahubali](https://telugu.filmibeat.com/news/dev-katta-s-inspirational-dialogue-baahubali-046825.html) | 2015年7月16日の記事、演説の引用と場面の説明 | ウェブ本文で確認。台詞002に使用 |
-| [Filmibeat：Baahubali Dialogues](https://telugu.filmibeat.com/movies/baahubali/dialogues.html) | Telugu、2015年7月10日の作品表示、台詞欄の第2・第3項 | ウェブ本文で確認。台詞003・004に使用 |
-| [LyricsTape：Pacha Bottasina](https://www.lyricstape.com/album/baahubali-the-begining-pacha-bottasina-song-lyrics/571/1108) | 曲・作品情報と最初の歌唱行。以前の冒頭抜粋の確認資料 | ウェブ本文で確認。現在の全文訳はユーザー提示本文に基づく |
 | [C. P. Brown：A Grammar of the Telugu Language（1857、第2版）](https://www.scribd.com/document/318810861/A-Grammar-of-the-Telugu-Language-pdf) | 所有形・格・分詞・省略・強調の各節。ページは各ノートに記載 | 原著のデジタル転載本文を確認。OCRのテルグ文字に崩れがあり、英語説明を中心に参照 |
 
 Brownは19世紀の文法書です。古い活用表を現代の映画の口語へ無条件に置き換えず、確認した一般規則と今回の表現への適用を分けています。辞書で個別の語義を確認できなかった語は、各ノートにその範囲を残しています。
