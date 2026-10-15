@@ -30,12 +30,9 @@
 
 | ノート | 曲 | 扱う意味・学ぶこと |
 | --- | --- | --- |
-| [001：皆の幸せを目指す王](songs/001.md) | Mamatala Talli | 皆の幸福という目標から、国と王を本人に重ねる表現まで |
-| [002：疲れても、共に旅をしようか](songs/002.md) | Dhivara | 疲労の譲歩から、慰め・導き・同行の申し出までの二行 |
-| [003：夢と傷を秘めた命の川](songs/003.md) | Jeeva Nadhi | 目的語・場所・秘める動作から、命の川への呼びかけまで |
-| [004：あなたと若さを分かち合う（提示全文訳）](songs/004.md) | Pacha Bottasina | ユーザー提示の提示全文を通して訳す（同じサビの再掲は省略）。待望・抱擁・一体感・月光の比喩 |
+| [Pacha Bottasina：あなたと若さを分かち合う（提示全文訳）](songs/Pacha-Bottasina.md) | Pacha Bottasina | ユーザー提示の全文を通して訳す（同じサビの再掲は省略）。待望・抱擁・一体感・月光の比喩 |
 
-001〜003は各曲から意味がつながるまとまりを一つずつ選びました。004はユーザーが提示した9連・31行の全文訳を、同じ曲の1ファイルにまとめています。同じサビは最初の一度だけ掲載し、後の3か所は位置を示して省略しています。通しの自然な訳・原文・直訳・注記・文法解説の順に読めます。綴りが不明瞭な箇所の推定は注記に分けています。歌詞中のサンスクリット語部分をテルグ語の活用として説明しないよう、今回はテルグ語の箇所を扱っています。
+現在の歌詞ノートはPacha Bottasinaの1曲です。ユーザーが提示した9連・31行の全文訳を、同じ曲の1ファイルにまとめています。同じサビは最初の一度だけ掲載し、後の3か所は位置を示して省略しています。通しの自然な訳・原文・直訳・注記・文法解説の順に読めます。綴りが不明瞭な箇所の推定は注記に分けています。
 
 ## 原典・参照資料
 
@@ -46,11 +43,7 @@
 | [Telugu Bucket：Baahubali 1 Telugu Movie Dialogues](https://telugubucket.com/prabhas-baahubali-1-telugu-movie-dialogues/) | 作品名を明示する見出しと第10項の台詞 | ウェブ本文で確認。記事全体を公式台本とは扱わない |
 | [Filmibeat：Dev Katta's inspirational dialogue in Baahubali](https://telugu.filmibeat.com/news/dev-katta-s-inspirational-dialogue-baahubali-046825.html) | 2015年7月16日の記事、演説の引用と場面の説明 | ウェブ本文で確認。台詞002に使用 |
 | [Filmibeat：Baahubali Dialogues](https://telugu.filmibeat.com/movies/baahubali/dialogues.html) | Telugu、2015年7月10日の作品表示、台詞欄の第2・第3項 | ウェブ本文で確認。台詞003・004に使用 |
-| [LyricsTape：Mamatala Talli](https://www.lyricstape.com/album/baahubali-the-begining-mamatala-talli-song-lyrics/571/1109) | 曲名・作詞者・歌手・2015年の作品情報、テルグ文字の歌詞 | ウェブ本文で確認。公式歌詞ではない |
-| [Lovely Lyrics：Dheevara](https://lovelylyricstelugu.blogspot.com/2018/12/dheevara-bahubali-beginning.html) | 疲労から慰め・同行へ続く二行 | この会話の最初の取得で本文確認。歌詞002の採用資料。再取得失敗と音声未照合は別記 |
-| [LyricsTape：Dhivara](https://www.lyricstape.com/album/baahubali-the-begining-dhivara-song-lyrics/571/1112) | テルグ文字の歌詞 | ウェブ本文で確認。歌詞002では表記比較の資料として扱う |
-| [LyricsTape：Jeeva Nadhi](https://www.lyricstape.com/album/baahubali-the-begining-jeeva-nadhi-song-lyrics/571/1113) | 同上、冒頭の歌詞 | ウェブ本文で確認。公式歌詞ではない |
-| [LyricsTape：Pacha Bottasina](https://www.lyricstape.com/album/baahubali-the-begining-pacha-bottasina-song-lyrics/571/1108) | 同上、最初の歌唱行 | ウェブ本文で確認。公式歌詞ではない |
+| [LyricsTape：Pacha Bottasina](https://www.lyricstape.com/album/baahubali-the-begining-pacha-bottasina-song-lyrics/571/1108) | 曲・作品情報と最初の歌唱行。以前の冒頭抜粋の確認資料 | ウェブ本文で確認。現在の全文訳はユーザー提示本文に基づく |
 | [C. P. Brown：A Grammar of the Telugu Language（1857、第2版）](https://www.scribd.com/document/318810861/A-Grammar-of-the-Telugu-Language-pdf) | 所有形・格・分詞・省略・強調の各節。ページは各ノートに記載 | 原著のデジタル転載本文を確認。OCRのテルグ文字に崩れがあり、英語説明を中心に参照 |
 
 Brownは19世紀の文法書です。古い活用表を現代の映画の口語へ無条件に置き換えず、確認した一般規則と今回の表現への適用を分けています。辞書で個別の語義を確認できなかった語は、各ノートにその範囲を残しています。

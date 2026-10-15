@@ -7,15 +7,19 @@
 | 資料 | 確認した内容 | 今回の使い方と限界 |
 | --- | --- | --- |
 | [Telugu Bucket：Prabhas Baahubali 1 Telugu Movie Dialogues](https://telugubucket.com/prabhas-baahubali-1-telugu-movie-dialogues/) | ウェブ本文で作品見出しとテルグ文字の台詞を確認。第10項は二文の宣言として掲載 | 台詞001で二文を一続きの原文として採用。他の項目の誤記・脱落の可能性は個別に比較する |
-| [Lovely Lyrics Telugu：Dheevara](https://lovelylyricstelugu.blogspot.com/2018/12/dheevara-bahubali-beginning.html) | 2018年12月20日の記事本文で作品・曲名、テルグ文字とローマ字、疲労から慰め・同行へ続く二行を確認 | 歌詞002の二行を同じ資料から一続きで採用。後の直接再取得は失敗。音声・公式歌詞との一致は未確認 |
+| [Lovely Lyrics Telugu：Dheevara](https://lovelylyricstelugu.blogspot.com/2018/12/dheevara-bahubali-beginning.html) | 2018年12月20日の記事本文で作品・曲名、テルグ文字とローマ字、疲労から慰め・同行へ続く二行を確認 | 旧Dhivaraノートでは二行を同じ資料から一続きで採用（ノートは2026年10月15日に削除）。後の直接再取得は失敗。音声・公式歌詞との一致は未確認 |
 | [Worthview：Baahubaliの台詞集](https://movie-dialogues.worthview.com/baahubali-the-beginning-movie-dialogues-with-images-prabhas-rana-anushka/) | 記事本文で主にローマ字の台詞と話者名を確認。約束の発言はKattapa、薪・火葬の発言はDevasenaとして紹介 | 台詞003・004の話者・相手を調べる比較資料。台詞の細部は別資料と異なる。画像の文字の読取りや本編音声の照合は今回の確認に含めない |
-| [Lovely Lyrics Telugu：Pacha Bottesina](https://lovelylyricstelugu.blogspot.com/2018/12/pacha-bottesina-bahubali-beginning.html) | 検索に保存された記事本文で曲名・作詞者・歌手、冒頭の呼びかけと若さを分かち合う行を確認 | 歌詞004の比較資料。直接取得は失敗。目的語の語尾やローマ字に差があるため、2026年10月14日の改訂では主たる引用をLyricsTapeに維持。翌日の全文訳は下記ユーザー提示本文に切替 |
+| [Lovely Lyrics Telugu：Pacha Bottesina](https://lovelylyricstelugu.blogspot.com/2018/12/pacha-bottesina-bahubali-beginning.html) | 検索に保存された記事本文で曲名・作詞者・歌手、冒頭の呼びかけと若さを分かち合う行を確認 | Pacha Bottasinaの比較資料。直接取得は失敗。目的語の語尾やローマ字に差があるため、2026年10月14日の改訂では主たる引用をLyricsTapeに維持。翌日の全文訳は下記ユーザー提示本文に切替 |
 
 Worthviewには末尾にキリキ語の項目もあります。テルグ語の台詞とは別の言語として扱います。サイト名や俳優名の見出しだけで、個々の台詞の話者を確定しません。
 
+## 2026年10月15日：ファイル名と掲載曲の整理
+
+ユーザーの指定により、Pacha Bottasinaのファイル名を `004.md` から曲名の `Pacha-Bottasina.md` に変更しました。抜粋だけだったMamatala Talli・Dhivara・Jeeva Nadhiの3ファイル（旧 `001.md`〜`003.md`）を削除し、一覧とリンクを更新しています。サイトの確認記録は、過去の調査記録として残します。
+
 ## 2026年10月15日：Pacha Bottasinaの提示全文訳
 
-ユーザーが会話内で提示したテルグ文字の歌詞本文を、[歌詞004](songs/004.md) の採用本文にしました。提示された9連・31行を対象に、曲の1ファイルで通して訳しています。同じサビはユーザーの指定に合わせて初回だけ掲載し、後の3か所は位置を示して省略しました。HTMLの改行表記 `&#xA;` を改行に戻し、先頭の見出し記号を除いたほかは、省略した繰り返し以外の綴り・語順・連の区切りを保持しました。最後のサビにある表記差はノートの第4節に残しています。
+ユーザーが会話内で提示したテルグ文字の歌詞本文を、[Pacha Bottasina](songs/Pacha-Bottasina.md) の採用本文にしました。提示された9連・31行を対象に、曲の1ファイルで通して訳しています。同じサビはユーザーの指定に合わせて初回だけ掲載し、後の3か所は位置を示して省略しました。HTMLの改行表記 `&#xA;` を改行に戻し、先頭の見出し記号を除いたほかは、省略した繰り返し以外の綴り・語順・連の区切りを保持しました。最後のサビにある表記差はノートの第4節に残しています。
 
 この全文がLyricsTapeやLovely Lyricsの掲載全文と一致するかは、新たに確認していません。以前の冒頭抜粋の原文・訳・文法の参照記録は同じファイルに引き継ぎ、今回の全文の出典とは区別しています。日本語訳は提示本文に基づいて作成し、不明瞭な綴りや語境界からの推定を注1〜注5に記録しました。新たな語形・語義の辞書・現代文法資料での照合、本編音声との照合は未実施です。
 
@@ -27,10 +31,7 @@ Worthviewには末尾にキリキ語の項目もあります。テルグ語の�
 | [台詞002](dialogue/dialogue.md#dialogue-002) | 共に来る・死ぬ・死を越えて生きるという三つの問い |
 | [台詞003](dialogue/dialogue.md#dialogue-003) | 約束した人の死の可能性から、約束が残るという結論まで |
 | [台詞004](dialogue/dialogue.md#dialogue-004) | 薪に関する問いから、現在の行為とその目的まで |
-| [歌詞001](songs/001.md) | 皆の幸福という目標と、国・王・本人を結び付ける箇所 |
-| [歌詞002](songs/002.md) | 疲労を述べる譲歩と、慰め・導き・同行の申し出の二行 |
-| [歌詞003](songs/003.md) | 夢と傷の目的語から、秘める動作と命の川への呼びかけまで |
-| [歌詞004](songs/004.md) | 当初は冒頭の呼びかけから分かち合う動詞まで。2026年10月15日にユーザー提示全文の訳へ更新 |
+| [Pacha Bottasina](songs/Pacha-Bottasina.md) | 当初は冒頭の呼びかけから分かち合う動詞まで。2026年10月15日にユーザー提示全文の訳へ更新 |
 
 原文のまとまり、自然な日本語訳、構造に沿った直訳を先に置き、その後に語句・文法を説明します。名詞句や条件節だけの訳で終えず、目的・述語・結論までのつながりを保っています。
 
