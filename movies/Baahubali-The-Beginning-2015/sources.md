@@ -7,11 +7,19 @@
 | 資料 | 確認した内容 | 今回の使い方と限界 |
 | --- | --- | --- |
 | [Telugu Bucket：Prabhas Baahubali 1 Telugu Movie Dialogues](https://telugubucket.com/prabhas-baahubali-1-telugu-movie-dialogues/) | ウェブ本文で作品見出しとテルグ文字の台詞を確認。第10項は二文の宣言として掲載 | 台詞001で二文を一続きの原文として採用。他の項目の誤記・脱落の可能性は個別に比較する |
-| [Lovely Lyrics Telugu：Dheevara](https://lovelylyricstelugu.blogspot.com/2018/12/dheevara-bahubali-beginning.html) | 2018年12月20日の記事本文で作品・曲名、テルグ文字とローマ字、疲労から慰め・同行へ続く二行を確認 | 旧Dhivaraノートでは二行を同じ資料から一続きで採用（ノートは2026年10月15日に削除）。後の直接再取得は失敗。音声・公式歌詞との一致は未確認 |
+| [Lovely Lyrics Telugu：Dheevara](https://lovelylyricstelugu.blogspot.com/2018/12/dheevara-bahubali-beginning.html) | 2018年12月20日の記事本文で作品・曲名、テルグ文字とローマ字、疲労から慰め・同行へ続く二行を確認 | 旧Dhivaraノートでは二行を同じ資料から一続きで採用（抜粋ノートは2026年10月15日に削除し、のちにユーザー提示歌詞のノートを曲名で新規作成）。後の直接再取得は失敗。音声・公式歌詞との一致は未確認 |
 | [Worthview：Baahubaliの台詞集](https://movie-dialogues.worthview.com/baahubali-the-beginning-movie-dialogues-with-images-prabhas-rana-anushka/) | 記事本文で主にローマ字の台詞と話者名を確認。約束の発言はKattapa、薪・火葬の発言はDevasenaとして紹介 | 台詞003・004の話者・相手を調べる比較資料。台詞の細部は別資料と異なる。画像の文字の読取りや本編音声の照合は今回の確認に含めない |
 | [Lovely Lyrics Telugu：Pacha Bottesina](https://lovelylyricstelugu.blogspot.com/2018/12/pacha-bottesina-bahubali-beginning.html) | 検索に保存された記事本文で曲名・作詞者・歌手、冒頭の呼びかけと若さを分かち合う行を確認 | Pacha Bottasinaの比較資料。直接取得は失敗。目的語の語尾やローマ字に差があるため、2026年10月14日の改訂では主たる引用をLyricsTapeに維持。翌日の全文訳は下記ユーザー提示本文に切替 |
 
 Worthviewには末尾にキリキ語の項目もあります。テルグ語の台詞とは別の言語として扱います。サイト名や俳優名の見出しだけで、個々の台詞の話者を確定しません。
+
+## 2026年10月15日：Dheevaraの提示歌詞を追加
+
+ユーザーが会話で提示した9連・49行を採用し、[Dheevara](songs/Dheevara.md) に通しの訳・原文・直訳・判読注記・文法解説をまとめました。曲名のファイルに保存し、同じサビや同じ2行の繰り返しは位置を示して省略しています。サビの表記差は注記に残しました。
+
+テルグ語の節は連全体の流れで訳しています。サンスクリット語系とみられる句には、語義の推定にとどまる部分や通し訳を保留した連があります。文字がテルグ文字であることを理由に、全体をテルグ語の活用としては扱いません。以前の短い抜粋と今回の語尾の差も区別しました。
+
+今回、Lovely LyricsとLyricsTapeの再取得は接続プロキシのエラーで失敗しました。以前に確認した掲載箇所・文法資料は比較の経緯として記録し、今回の全文・各語形を新たに照合済みとはしていません。本編・公式音源・公式歌詞、サンスクリット語系の句の正しい文字・分かち書き・訳は追加確認事項です。
 
 ## 2026年10月15日：ファイル名と掲載曲の整理
 
