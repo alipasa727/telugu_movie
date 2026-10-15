@@ -58,3 +58,91 @@ Worthviewには末尾にキリキ語の項目もあります。テルグ語の�
 文法書の一般規則を確認したことと、現代の口語の個別形・語義の辞書照合を終えたことも区別しています。参照ページと追加確認事項は各ノートに記録。本編・音声・字幕による場面、語境界、時刻の照合は未実施です。
 
 [作品とノート一覧](movie.md)／[全体の調査先](../../SOURCES.md)
+
+## 2026年10月15日：台詞の構成変更に伴う資料記録
+
+台詞ノートから独立した「場面と出典」「原文の出典」の欄を取り除き、採用資料・掲載範囲・照合記録をここへ移しました。以下は既存の調査記録の移動で、新たに音声・字幕・文法資料を照合したという意味ではありません。原文、訳、補足した語句と未確認の分析は台詞ノートでも区別しています。
+
+### 台詞 001：私の言葉こそが法 — 宣言をひとまとまりで読む
+
+| 項目 | 内容 |
+| --- | --- |
+| 作品・言語 | Baahubali: The Beginning（2015）／テルグ語 |
+| 掲載資料 | [Telugu Bucket：Prabhas Baahubali 1 Telugu Movie Dialogues](https://telugubucket.com/prabhas-baahubali-1-telugu-movie-dialogues/) |
+| 参照箇所 | 台詞第10項の宣言全体 |
+| 確認状況 | この会話でウェブ本文の作品名と表記を確認。後半だけを抜き出していたノートを、前後の二文を含む一つの発言に更新 |
+| 本編照合 | 未実施。正確な話者・相手・時刻・使用版は未確認 |
+
+#### 根拠と確認範囲
+
+[Brown（1857、第2版）](https://www.scribd.com/document/318810861/A-Grammar-of-the-Telugu-Language-pdf)、冊子 pp.68–70「Pronouns」、p.168の連結動詞の省略、pp.172–175「Emphatic affixes」。同書の一般規則を本文で確認し、今回の名詞句と宣言へ適用しています。指示語がこの発言を受けるという説明は、前後関係に基づく分析です。
+
+語義は [Wiktionary「మాట」](https://en.wiktionary.org/wiki/మాట) の発言・言葉の項目を参照。「法令」に当たる名詞の辞書項目の確認は未完了です。
+
+### 台詞 002：私と共に生きるのは誰だ — 三つの問いをひとまとまりで読む
+
+| 項目 | 内容 |
+| --- | --- |
+| 作品・言語 | Baahubali: The Beginning（2015）／テルグ語 |
+| 掲載資料 | [Filmibeat：Dev Katta's inspirational dialogue in Baahubali](https://telugu.filmibeat.com/news/dev-katta-s-inspirational-dialogue-baahubali-046825.html)／2015年7月16日 |
+| 参照箇所 | 記事中で一続きに引用された、兵士に呼びかける三つの問い全体 |
+| 比較資料 | [Worthviewの台詞集](https://movie-dialogues.worthview.com/baahubali-the-beginning-movie-dialogues-with-images-prabhas-rana-anushka/) の戦場の演説。主にローマ字表記で掲載 |
+| 確認状況 | 作品への帰属、掲載原文、戦場の演説という記事の説明を本文で確認 |
+| 本編照合 | 未実施。使用版・正確な時刻・音声の語境界は未確認 |
+
+#### 根拠と確認範囲
+
+[Brown（1857、第2版）](https://www.scribd.com/document/318810861/A-Grammar-of-the-Telugu-Language-pdf)、冊子 pp.68–70の代名詞、pp.200–203の格、pp.253–254「Relative Aorist Participle」を参照。代名詞の格、対格、連体的な動詞の形を名詞や「誰」に結び付ける一般規則を本文で確認しています。
+
+今回の縮約形の語境界や、死を越える複合動詞の細かな形成を同書で直接確認したわけではありません。一般規則、原文への当てはめ、未確認の分析を分けています。
+
+### 台詞 003：約束した人が死んでも、約束は残る — 発言全体を読む
+
+| 項目 | 内容 |
+| --- | --- |
+| 作品・言語 | Baahubali: The Beginning（2015）／テルグ語 |
+| 掲載資料 | [Filmibeat：Baahubali Dialogues](https://telugu.filmibeat.com/movies/baahubali/dialogues.html) |
+| 参照箇所 | 2015年のテルグ語作品の台詞欄、第2項の全文 |
+| 比較資料 | [Worthviewの台詞集](https://movie-dialogues.worthview.com/baahubali-the-beginning-movie-dialogues-with-images-prabhas-rana-anushka/) の約束に関する段落 |
+| 確認状況 | 掲載本文で作品表示と原文を確認。WorthviewはカッタッパがAslam Jiに向ける言葉として紹介している |
+| 本編照合 | 未実施。話者・相手は比較記事上の情報で、音声で確定したものではない |
+
+#### 根拠と確認範囲
+
+[Brown（1857、第2版）](https://www.scribd.com/document/318810861/A-Grammar-of-the-Telugu-Language-pdf)、冊子 p.86の分詞形成、p.252「Past Relative Participle」。過去の分詞を連体形にして後ろの名詞・人を修飾する規則を本文で確認しています。
+
+語義は [Wiktionary「మాట」](https://en.wiktionary.org/wiki/మాట) の Telugu → Noun 第3義「約束」と、言葉を与える約束の用例で確認。可能性や存続を表す複合動詞の細かな語幹・接辞は、今回の文脈に基づく読みとして記録し、辞書・現代文法資料の項目別確認は未完了です。
+
+### 台詞 004：あの男を焼くために薪を積む — 問いと決意をひとまとまりで読む
+
+| 項目 | 内容 |
+| --- | --- |
+| 作品・言語 | Baahubali: The Beginning（2015）／テルグ語 |
+| 掲載資料 | [Filmibeat：Baahubali Dialogues](https://telugu.filmibeat.com/movies/baahubali/dialogues.html) |
+| 参照箇所 | 台詞欄第3項の全文。薪についての問いから、積む目的まで |
+| 比較資料 | [Worthviewの台詞集](https://movie-dialogues.worthview.com/baahubali-the-beginning-movie-dialogues-with-images-prabhas-rana-anushka/) の薪・火葬に関する段落 |
+| 確認状況 | 掲載原文を本文で確認。Worthviewはデーヴァセーナの言葉として掲載 |
+| 本編照合 | 未実施。話者は比較記事上の情報であり、正確な発音・場面・時刻は未確認 |
+
+#### 根拠と確認範囲
+
+[Brown（1857、第2版）](https://www.scribd.com/document/318810861/A-Grammar-of-the-Telugu-Language-pdf)、冊子 pp.91–95の現在形、p.168の主語などの省略、pp.172–173の疑問、pp.200–203の格・呼格を参照。一般規則の本文確認と、今回の語尾への適用を区別しています。
+
+目的を表す現代形の詳しい形成、思う動詞の縮約、薪を積む動詞の基本形と語幹交替は追加確認事項です。進行形の一般規則だけを根拠に、すべての口語形まで照合済みとは扱いません。
+
+### 台詞 005：この子は生きなければならない — 命を差し出す祈り全体
+
+| 項目 | 内容 |
+| --- | --- |
+| 作品・言語 | 画像上の作品表示はBaahubali: The Beginning／テルグ語のローマ字表記として読む |
+| 採用資料 | ユーザーがこの会話で提示した画像。確認・追加日：2026年10月15日（日本時間） |
+| 画像の識別 | 水中から差し出された腕が赤子を掲げる絵柄、右上に作品ロゴ、下部に `FB.com/MovieDialoguesPage` の表示 |
+| 参照箇所 | 画像下部の `Parameshwara` から `MAHENDHRA BAAHUBALI BATHAKALI...` までの6行すべて |
+| 確認したもの | 画像内のローマ字掲載文を読み取った。テルグ文字はその読みを一般的な綴りに整えた転写 |
+| 確認していないもの | 画像の投稿元URL・投稿者、本編音声・公式字幕、話者・場面の時刻、使用版。透かしのアカウントを実際に閲覧したわけではない |
+
+#### 根拠と確認範囲
+
+本ファイルで既に参照した [Brown（1857、第2版）](https://www.scribd.com/document/318810861/A-Grammar-of-the-Telugu-Language-pdf) の冊子 p.252の過去の連体形、pp.200–203の格、p.168の省略は、修飾関係・格・省略された主語を考えるための一般的な参照先です。
+
+今回は画像の転写・訳と、その文への暫定的な分析を追加しています。文法書や辞書を新たに開いて `-ాలి` の現代の用法、`కోసం` の構成、各語義・固有名詞の綴りを項目別に確認したわけではありません。画像の文字を読めたことと、転写の綴り・文法・音声を照合済みであることは区別します。

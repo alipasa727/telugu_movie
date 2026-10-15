@@ -93,3 +93,99 @@
 - Gudige Chandraiah（2009）の University of Hyderabad 所蔵学位論文は、目録で書誌を確認しましたが、PDF の直接取得は失敗しました。検索結果で見えた断片を、本文照合済みの根拠にはしていません。
 
 [作品一覧](movie.md)／[全体の編集方針](../../README.md)／[作業ルール](../../AGENTS.md)
+
+## 2026年10月15日：台詞の構成変更に伴う資料記録
+
+台詞ノートから独立した「場面と出典」「原文の出典」の欄を取り除き、採用資料・掲載範囲・照合記録をここへ移しました。以下は既存の調査記録の移動で、新たに音声・字幕・文法資料を照合したという意味ではありません。原文、訳、補足した語句と未確認の分析は台詞ノートでも区別しています。
+
+### 台詞 001：私の言葉こそ法だ — 強調と名詞述語
+
+| 項目 | 内容 |
+| --- | --- |
+| 作品・言語 | Baahubali 2: The Conclusion（2017）／テルグ語 |
+| 掲載資料 | [Asianet News Telugu：後編の台詞10選](https://telugu.asianetnews.com/gallery/entertainment/baahubali-2-the-conclusion-top-10-dialogues-prabhas-anushka-shetty-rana-daggubati-in-telugu-jms-svf5pp)／Mahesh Jujjuri、2025年4月28日更新 |
+| 掲載箇所 | 項目9。前の文に続く、発言を法令と結び付ける短い文 |
+| 話者・場面 | 記事は Ramya Krishnan の台詞として紹介。シヴァガミ役の発言として読むが、本編での相手・場面は未確認 |
+| 確認方法・日 | 掲載本文で原文と後編への帰属を確認。2026年10月11日 |
+| 音声・字幕・タイムスタンプ | 未照合・未確認 |
+
+冒頭の「ఇదే」は「これ」に強調が加わった形と読みます。二つの文を重ね、自分の宣言に法と同じ効力があると言い切る表現です。自然な訳では繰り返される「こそ」を後半に置きました。
+
+出典はユーザー提供画像2（Kulfyの透かしがある画像）。画像の左側の2行を目視で読み取りました。元の掲載ページURLは不明です。下記の既存資料は冒頭を「ఇది」と記しており、画像の「ఇదే」へ置き換えて合成していません。強調の一般規則は下記の既存解説を参照。名詞述語文については [Universal Dependencies：Telugu](https://universaldependencies.org/te/index.html) の「Non-verbal Clauses」を2026年10月15日にも本文で確認しました。本編の音声・場面・時刻との照合は未実施です。
+
+#### 文法の根拠と照合状況
+
+| 確認した事項 | 資料・参照箇所 | この原文への適用 |
+| --- | --- | --- |
+| -ē の強調 | Bhadriraju Krishnamurti（2003）[The Dravidian Languages](https://tamilnavarasam.in/Books/Others/The_dravidian_languages.PDF#page=421)、§8.4.2、冊子 p.415（PDF421ページ目）の Telugu の段落 | 現代テルグ語の構成要素を強調する説明を本文で確認。ここでは所有名詞句に適用 |
+| 連結動詞を明示しない非動詞文 | [Universal Dependencies：Telugu](https://universaldependencies.org/te/index.html)「Syntax → Non-verbal Clauses」 | 言語別記述の本文を確認。この文には連結動詞が書かれていないことと照合。すべての時制の文へ一般化しない |
+
+語義の補助は [Wiktionary「మాట」](https://en.wiktionary.org/wiki/మాట)の「Noun」（言葉・発言・約束）を本文で確認し、[Shabdkosh「law」](https://www.shabdkosh.com/dictionary/english-telugu/law/law-meaning-in-telugu)のテルグ語対応語を検索保存本文で参照しました。後者の直接取得では対応語を再確認できませんでした。編集型・民間の辞書と大学の文法資料を区別します。
+
+**文法の照合状況：** 強調と名詞述語の一般規則を本文で確認。この台詞への構文分析と語調の説明は、本ノートによる適用です。
+
+### 台詞 002：草一本でも剣になる — 条件の -tē
+
+| 項目 | 内容 |
+| --- | --- |
+| 作品・言語 | Baahubali 2: The Conclusion（2017）／テルグ語 |
+| 掲載資料 | [Asianet News Telugu：後編の台詞10選](https://telugu.asianetnews.com/gallery/entertainment/baahubali-2-the-conclusion-top-10-dialogues-prabhas-anushka-shetty-rana-daggubati-in-telugu-jms-svf5pp)／Mahesh Jujjuri |
+| 掲載箇所 | 項目8。考えの強さを武器の比喩に結び付ける台詞 |
+| 話者・場面 | 記事はカッタッパの言葉として、戦いに向けて勇気を与える趣旨を説明。本編での場面・相手は未確認 |
+| 確認方法・日 | 掲載本文で原文と後編への帰属を確認。2026年10月11日 |
+| 音声・字幕・タイムスタンプ | 未照合・未確認 |
+
+#### 文法の根拠と照合状況
+
+| 確認した事項 | 資料・参照箇所 | 今回の照合 |
+| --- | --- | --- |
+| 肯定の条件形と非過去の主節 | Perugu・Krishnamurthy・Kulkarni（2021）[Parsing Subordinate Clauses in Telugu using Rule-based Dependency Parser](https://sanskrit.uohyd.ac.in/faculty/amba/PUBLICATIONS/papers/2021.pail-1.2.pdf)、§3・表1、冊子 p.14（PDF3ページ目）；§4.2、p.16（PDF5ページ目） | -tē の条件用法と、主節によって解釈が変わる説明を本文で確認。ここでは非過去の主節との組み合わせを条件と読む |
+| -gā による副詞 | Krishnamurti（2003）[The Dravidian Languages](https://tamilnavarasam.in/Books/Others/The_dravidian_languages.PDF)、§8.3.1.2、冊子 p.409（PDF415ページ目）の Telugu の記述 | 形容詞・名詞に付く副詞の形成を本文で確認。原文では状態を説明する働きとして適用 |
+
+語義の補助には Percival（1862）[Telugu-English Dictionary「గ」](https://en.wikisource.org/wiki/Telugu-English_Dictionary/గ)の見出し「గట్టి」「గడ్డి」を使いました。同辞書は前者に「固い・強い」、後者に「草・わら」の意味を載せています。一方、副詞形の項目は「大声で」の意味を載せており、その訳をこの台詞に機械的に当てはめていません。古い辞書の本文と、映画の文脈による訳し分けを区別します。
+
+**文法の照合状況：** 条件構文の一般規則は大学の研究論文で確認。「意志が固い」「草一本でも」の自然な訳は原文への適用です。変化動詞の活用全体の細かな分解は追加確認が必要です。
+
+### 台詞 003：まだ生まれていない — 否定と省略
+
+| 項目 | 内容 |
+| --- | --- |
+| 作品・言語 | Baahubali 2: The Conclusion（2017）／テルグ語 |
+| 掲載資料 | [Telugu Bucket：Prabhas Bahubali 2 Telugu Movie Dialogues](https://telugubucket.com/bahubali-2-telugu-movie-dialogues/) |
+| 掲載箇所 | 項目1の末尾。そばにいる相手を信頼し、自分を殺す男はいないと述べる台詞 |
+| 話者 → 相手 | バーフバリ → カッタッパ。[Webdunia の予告編紹介記事](https://telugu.webdunia.com/article/telugu-cinema-news/baahubali-2-the-conclusion-trailer-release-117031600003_1.html)の本文にこの関係の説明がある。本編では未照合 |
+| 確認方法・日 | Telugu Bucket の本文で引用表記と作品名を確認。2026年10月11日 |
+| 音声・字幕・タイムスタンプ | 未照合・未確認 |
+
+#### 文法の根拠と照合状況
+
+| 確認した事項 | 資料・参照箇所 | 今回の照合 |
+| --- | --- | --- |
+| 動詞の不定形に lēdu が続く過去否定 | Krishnamurti（2003）[The Dravidian Languages](https://tamilnavarasam.in/Books/Others/The_dravidian_languages.PDF)、§7.10.6.2、冊子 p.356（PDF362ページ目）；§8.4.2、p.415（PDF421ページ目） | 過去否定の説明と、不定形・否定要素の分析を本文で確認。原文の「生まれる」に適用 |
+| 能力否定との区別 | 同書 §7.15.2(9)(B2)、冊子 p.382（PDF388ページ目） | 人称に応じる能力否定の説明を確認。掲載原文を能力否定とは読まない |
+
+動詞の語義は [Wiktionary「పుట్టు」](https://en.wiktionary.org/wiki/పుట్టు)の「Verb」で確認しました。同ページの活用表は、本ノートの過去否定の根拠には使用していません。
+
+**文法の照合状況：** 否定構文は文法書本文と照合。主語の補足は台詞集の前の部分、話者・相手は比較記事による情報です。呼びかけの親しさと日本語の語調は文脈からの解釈です。
+
+### 台詞 004：指ではなく、首だ — 条件と対比
+
+- 主資料：ユーザー提供画像1。AllQuotesIconの透かしがある画像の右側4行。2026年10月15日に目視で読取り。元の画像ページURLは不明。
+- 比較資料：[Telugu Bucketの後編台詞集](https://telugubucket.com/bahubali-2-telugu-movie-dialogues/)、項目10。同じ趣旨の文と後編への帰属を本文で確認。画像とは「体」の有無、手・指の語の綴りなどが違うため、原文を混ぜていません。
+- 話者は画像の人物と呼びかけからバーフバリ→デーヴァセーナとして読む。本編の音声・公式字幕・場面の時刻は未照合です。
+
+**文法の根拠と確認範囲：** Perugu・Krishnamurthy・Kulkarni（2021）[Parsing Subordinate Clauses in Telugu using Rule-based Dependency Parser](https://sanskrit.uohyd.ac.in/faculty/amba/PUBLICATIONS/papers/2021.pail-1.2.pdf)、§3・表1（冊子p.14／PDF3ページ目）と§4.2（p.16／PDF5ページ目）の条件の -tē を本文で確認しました。条件形の解釈には主節も関わります。この台詞では、手を出す条件から処罰の判断へつなげています。個々の口語語尾と「斬るべきもの」の細かな活用分解は、今回、活用表との照合までは行っていません。
+
+### 台詞 005：正義の側に立て — 省略された主語と呼びかけ
+
+主資料はユーザー提供画像3（SHIVAMANIの透かしがある画像）、左側の2行です。確認日は2026年10月15日。元ページURL・動画IDは不明です。比較資料の投稿本文は読みましたが、元動画・公式字幕との照合と本編の時刻確認は未実施です。
+
+**文法の根拠と確認範囲：** 上記Peruguほか（2021）の§4.5、例(16)（冊子p.17／PDF6ページ目）には一人称の目的格形が示されています。[Universal Dependencies：Telugu](https://universaldependencies.org/te/index.html) の「Core Arguments」でも対格の目的語を説明しています。これらの一般規則を、画像の「私」が命じる主語ではないことに適用しました。強調の一般規則は台詞001の既存資料を参照。末尾の縮約と「この剣」という主語の補足は、文法資料で確認済みの事項とは区別します。
+
+### 台詞 006：戦場は血の海となる — 条件と必然
+
+主資料はユーザー提供画像4。剣を持って座る人物の下の2行を2026年10月15日に目視で読み取りました。元ページURLは不明です。末尾の絵文字は文の翻訳対象から外しました。
+
+**画像上のキャプションとして確認した文です。映画内で人物が実際に話す台詞かどうかは未確認です。** 「彼」が誰か、話者・相手、本編音声・公式字幕・時刻は、この画像だけから確定していません。
+
+**文法の確認範囲：** 条件節と主節の関係については上記Peruguほか（2021）§4.2を参照しました。ただし「పట్టుకున్నాడంటే」は、台詞004の動詞の条件形と同じ作りだと断定せず、「〜ということなら」と読む原文への分析です。「మారాల్సిందే」の必要・強調を必然の予測と読むこと、変化の結果を示す形の分析は、今回、個々の活用表と新たに照合したものではありません。

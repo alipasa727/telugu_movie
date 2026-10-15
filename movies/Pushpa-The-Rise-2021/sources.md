@@ -95,3 +95,51 @@ Wiktionaryは編集型辞書です。同ページが引用しているBrown辞�
 台詞001の名詞化と縮約、台詞002の疑問の接続、歌詞002の詩的な動詞形、歌詞003の辞書形との音の対応などは、各ノートの追加確認事項に残しました。本文で確認できたことと残る分析を分け、未確認箇所を推測で「確認済み」にしていません。
 
 [作品ページ](movie.md)／[全体の編集方針](../../README.md)／[作業ルール](../../AGENTS.md)
+
+## 2026年10月15日：台詞の構成変更に伴う資料記録
+
+台詞ノートから独立した「場面と出典」「原文の出典」の欄を取り除き、採用資料・掲載範囲・照合記録をここへ移しました。以下は既存の調査記録の移動で、新たに音声・字幕・文法資料を照合したという意味ではありません。原文、訳、補足した語句と未確認の分析は台詞ノートでも区別しています。
+
+### 台詞001：引かない — 名詞的な形と否定
+
+| 項目 | 内容 |
+| --- | --- |
+| 作品 | Pushpa: The Rise – Part 1（2021）、テルグ語版 |
+| 原文の出典 | [ABP Desam：Allu Arjun's Pushpa／ダビング紹介記事](https://telugu.abplive.com/entertainment/the-dubbing-formalities-of-allu-arjun-s-pushpa-the-rise-in-full-swing-and-fire-thaggede-le-11000) |
+| 掲載箇所 | 2021年11月21日の記事本文。ティーザーの決め台詞を紹介する段落 |
+| 話者・場面 | プシュパ役のAllu Arjunの決め台詞として紹介。個別の発言場面・相手は未確認 |
+| 確認日・方法 | 2026年10月11日。本文で作品名とテルグ文字の表記を確認 |
+| 本編・音声・字幕・時刻 | 未照合・未確認 |
+
+#### 文法の根拠と照合状況
+
+| 確認した事項 | 資料と参照箇所 | この原文への適用 |
+| --- | --- | --- |
+| 動詞の語義 | [Wiktionary：తగ్గు](https://en.wiktionary.org/wiki/తగ్గు)、Telugu → Verb | 「減る・程度が下がる」を確認。「譲る」はこの用例への解釈 |
+| 未来・習慣の連体形 -ē | [Peruguほか（2021）](https://sanskrit.uohyd.ac.in/faculty/amba/PUBLICATIONS/papers/2021.pail-1.2.pdf#page=3)、§3・表1、冊子p.14／PDF3ページ目 | 前半の行為を名詞的に読む分析の一部。後続の ది との結合全体は追加照合事項 |
+| テルグ語の強調 -ē | [Krishnamurti（2003）](https://tamilnavarasam.in/Books/Others/The_dravidian_languages.PDF#page=421)、§8.4.2、冊子p.415／PDF421ページ目のTeluguの段落 | 強調の一般規則を適用。資料が映画の台詞を分析しているわけではない |
+| 存在否定 lēdu | [Mahesh（2021）](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf#page=31)、スライド31「Negation contd.」 | 否定の一般形を確認。引用の短い形そのものの確認とは区別 |
+
+**文法の確認状況：** 連体形・強調・存在否定の一般規則を資料本文で確認しました。原文全体の形態分析、とくに名詞化と短い否定形については、口語文法と音声での追加照合が必要です。
+
+### 台詞002：パーティーはないのか — 否定疑問と呼びかけ
+
+| 項目 | 内容 |
+| --- | --- |
+| 作品 | Pushpa: The Rise – Part 1（2021）、テルグ語版 |
+| 原文の出典 | [NTV Telugu：Pushpaの予告編紹介](https://ntvtelugu.com/movie-news/pushpa-trailer-out-now-99198.html)／Roja Pantham、2021年12月6日 |
+| 掲載箇所 | 紅木密輸と恋愛を紹介する段落の末尾。ファハド・ファーシルの台詞を紹介する部分 |
+| 話者 → 相手 | ファハド・ファーシルが演じる人物 → プシュパ。記事の説明に基づく |
+| 語調 | 記事はからかうような言い方と説明。音声を自分で照合した判断ではない |
+| 確認日・方法 | 2026年10月11日。記事本文で作品への帰属と表記を確認 |
+| 本編・音声・字幕・時刻 | 未照合・未確認 |
+
+#### 文法の根拠と照合状況
+
+| 確認した事項 | 資料と参照箇所 | 今回の照合 |
+| --- | --- | --- |
+| 存在否定 lēdu | [Mahesh（2021）](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf#page=31)、スライド31 | 否定形の一般規則を確認 |
+| テルグ語のYes／No疑問 -ā | [Krishnamurti（2003）](https://tamilnavarasam.in/Books/Others/The_dravidian_languages.PDF#page=423)、§8.4.3、冊子p.417／PDF423ページ目のTelugu例 | 否定のまとまりを質問にする分析に適用 |
+| -ఆ が疑問を示す用法 | [Percival辞書「ఆ」](https://en.wikisource.org/wiki/Telugu-English_Dictionary/ఆ)、最初の見出し | 語や文末に付く疑問の用法を別資料でも確認 |
+
+**文法の確認状況：** 否定と疑問の一般規則は本文で確認済み。లేదు からの母音の接続と、文末の名前を呼びかけとする分析は、この掲載文への当てはめです。
