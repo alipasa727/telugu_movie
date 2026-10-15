@@ -37,15 +37,6 @@
 
 これは、誰かの動作を述べる文ではなく、相手を呼ぶ名詞句です。నా を主語の「私は」と読むと、後ろの名詞との関係が崩れます。所有の形が後ろの名詞にかかる、と読めば構造を追えます。
 
-#### 文法の根拠と照合状況
-
-| 確認した事項 | 資料と参照箇所 |
-| --- | --- |
-| 所有の nā | [Mahesh（2021）](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf#page=19)、スライド19「Pronoun declensions」、一人称の属格。Wiktionaryの [నా](https://en.wiktionary.org/wiki/నా)「Determiner」でも確認 |
-| 主・夫という語義 | [Percival辞書](https://en.wikisource.org/wiki/Page:Telugu-English_Dictionary.djvu/492)、冊子p.480／Wikisource画像492ページ目、స్వామి の見出し |
-
-**文法の確認状況：** 所有の形と辞書の語義を本文で確認しました。引用の సామి と辞書形の音の対応、呼びかけの待遇と歌唱の細部は追加照合事項です。歴史的な辞書の意味を、現代の相手への呼び方にそのまま一般化しません。
-
 ### 背景や要確認箇所等の補足
 
 **自然な訳：** あなた、私の愛しい人。
@@ -57,5 +48,3 @@
 [作詞家のインタビュー](https://indiaglitz.com/writing-lyrics-of-pushpa-was-not-easy-at-all-chandrabose-telugu-news-302788)は、この曲がプシュパからシュリーヴァッリへの呼び方をきっかけに作られたと説明しています。女性側から相手を慕う歌として読むと、[Srivalli](Srivalli.md)の男性側の強がりと、視点の違いが見えてきます。これは歌の前後とインタビューを踏まえた解釈です。
 
 発音・標準形との対応・時刻は未確認。日常にも応用できる文法は「所有の形＋名詞」ですが、歌の呼びかけの強さや親密さは相手との関係に依存します。
-
-[出典と文法資料](../sources.md)

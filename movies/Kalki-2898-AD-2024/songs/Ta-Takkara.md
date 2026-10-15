@@ -40,16 +40,6 @@
 
 నాは独立した主格の「私」ではなく、名詞の前の「私の」です。この3語には活用した「いる・ある」に当たる動詞は書かれていません。名詞句の対応として読みます。
 
-#### 根拠と照合範囲
-
-| 資料・参照箇所 | 確認状況 |
-| --- | --- |
-| [Features of Telugu Grammar](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf)、スライド19「Pronoun declensions」・20「On Gender」 | nāの属格と、idiの近称を本文で確認。原文の所有・指示に適用 |
-| [Telugu Wiktionary「లోకము」](https://te.wiktionary.org/wiki/లోకము)、英訳欄 | 「世界」の語義を補助辞書で確認 |
-| Bhadriraju Krishnamurti、[The Dravidian Languages・公開PDF](https://tamilnavarasam.in/books/others/the_dravidian_languages.pdf)、§8.4「Clitics」、p.415 | -ēがテルグ語の語・文を強調する説明と、adi → ad-ēの例を検索保存本文で確認。PDFの直接取得状況は資料一覧に記録 |
-
-**文法の照合状況：** 所有・指示は教材本文で照合済み。強調は上の書籍の検索保存本文に基づく照合です。連結動詞を明示しない構文の詳細と、この語の母音変化の全手順は文法書本文による再照合が必要です。
-
 ### 背景や要確認箇所等の補足
 
 **自然な訳：** こここそが、私の世界だ。
@@ -63,5 +53,3 @@
 所有の代名詞と指示語は会話でも使う基本形です。一方、この一行の詩的な意味や、どの場所・人物の視点なのかは前後の場面で確かめる必要があります。日常例文を自作して映画の引用として追加してはいません。
 
 未確認なのは、公式歌詞との表記比較、本編の歌唱場面・時刻・視点です。
-
-[資料一覧](../sources.md)

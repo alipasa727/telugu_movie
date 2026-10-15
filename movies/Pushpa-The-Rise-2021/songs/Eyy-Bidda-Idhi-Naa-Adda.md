@@ -38,17 +38,6 @@
 
 主語と名詞の述語を結び付ける文です。現在の名詞述語文は連結動詞を明示せずに成立するため、日本語訳では「だ」を補っています。నా は「私の」という名詞への修飾であり、「私は」という主語ではありません。
 
-#### 文法の根拠と照合状況
-
-| 確認した事項 | 資料と参照箇所 |
-| --- | --- |
-| 指示代名詞 idi | [Mahesh（2021）](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf#page=20)、スライド20「On Gender」。Wiktionaryの [ఇది](https://en.wiktionary.org/wiki/ఇది)「Pronoun」でも確認 |
-| 所有の nā | Mahesh、スライド19「Pronoun declensions」；[Wiktionary：నా](https://en.wiktionary.org/wiki/నా)「Determiner」 |
-| 連結動詞を明示しない文 | [Universal Dependencies：Telugu](https://universaldependencies.org/te/index.html)「Syntax → Non-verbal Clauses」。名詞述語文の一般規則を原文に適用 |
-| 名詞の語義 | [TransLiteral：అడ్డా](https://www.transliteral.org/dictionary/అడ్డా/word)のTelugu WordNet欄。人が居つく場所という名詞の説明を確認。「支配する地盤」は歌への文脈的な読み |
-
-**文法の確認状況：** 代名詞・所有の形・名詞述語文は資料本文で照合済み。歌の拠点が指す範囲と、比喩としての「地盤」は解釈です。
-
 ### 背景や要確認箇所等の補足
 
 **自然な訳：** ここは俺の地盤だ。
@@ -60,5 +49,3 @@
 自分の場所と力を強く主張する歌として読めます。[The Indian Expressの曲紹介](https://indianexpress.com/article/entertainment/telugu/pushpa-song-eyy-bidda-idhi-naa-adda-7630696/)も、主人公の荒々しさと目的へ向かう姿勢を説明しています。
 
 発音・映像での指示範囲・時刻は未確認です。日常にも使える文法は指示代名詞と所有の形、名詞の述語の組み合わせで、相手を威圧する歌の語調まで一般化しません。
-
-[出典と文法資料](../sources.md)

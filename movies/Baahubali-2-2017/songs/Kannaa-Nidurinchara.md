@@ -43,18 +43,6 @@
 
 テルグ語の連体形は、原則として修飾する名詞の前に置かれます。この抜粋も独立した「山を支えた。」という終止文ではなく、次の行の相手にかかる形として読みます。改行を文法上の文末と取り違えないことがポイントです。
 
-#### 文法の根拠と照合状況
-
-| 確認した事項 | 資料・参照箇所 | 今回の照合 |
-| --- | --- | --- |
-| 対格の -nu | Krishnamurti（2003）[The Dravidian Languages](https://tamilnavarasam.in/Books/Others/The_dravidian_languages.PDF)、第6章末 Modern Telugu の格の表、p.274（PDF280ページ目） | 現代テルグ語の名詞の対格を本文で確認。ここでは山が動作の対象 |
-| 過去の連体形 -ina | Perugu・Krishnamurthy・Kulkarni（2021）[Parsing Subordinate Clauses in Telugu using Rule-based Dependency Parser](https://sanskrit.uohyd.ac.in/faculty/amba/PUBLICATIONS/papers/2021.pail-1.2.pdf)、§3・表1、冊子 p.14（PDF3ページ目） | 表の過去の Relative Participle の例を確認。図3では長母音に見える表記があるため、表1の -ina と本文の説明を参照 |
-| 修飾される名詞の前に置く構造 | 同論文 §4.5、p.17（PDF6ページ目） | 連体節と後ろの名詞の関係を本文で確認。次行の呼びかけを修飾する読みを原文へ適用 |
-
-語義は Percival（1862）[Telugu-English Dictionary「మో」](https://en.wikisource.org/wiki/Telugu-English_Dictionary/మో)の見出し「మోయు」で、荷を担う・支える・運ぶ意味を確認しました。古い辞書の掲載本文です。活用語幹との対応の細かな規則まで、この見出しだけで確認したとは扱いません。
-
-**文法の照合状況：** 対格と過去の連体形・名詞にかかる語順は本文で確認。辞書形と活用語幹の対応の詳細は追加確認が必要です。
-
 ### 背景や要確認箇所等の補足
 
 **自然な訳：** 山を支えた〔君〕。
@@ -68,5 +56,3 @@
 大きな山と小さな指を結び付け、呼びかける相手の力を際立たせる部分です。このような神話的な情景と、対格・連体形という日常でも使う文法を分けて読みます。日常用の自作例文は設けていません。
 
 公式歌詞・音源との一致、該当時刻、曲名末尾の母音の長さ、動詞の活用語幹の変化、歌唱場面と神話への言及の公式資料との照合。
-
-[資料の詳細](../sources.md)

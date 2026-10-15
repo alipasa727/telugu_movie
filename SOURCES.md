@@ -1,71 +1,30 @@
 # 辞書・文法資料
 
-テルグ語の語義・文法を調べるための資料と、確認できた範囲をまとめます。個々の台詞・歌詞で使った見出し語・節・ページと未確認事項は、各作品の資料記録やノートに残します。
+共通で使う辞書・文法資料の一覧です。
 
 ## テルグ語の辞書・文法資料
 
-| 資料名・種類・URL | 本文で確認した箇所 | 利用範囲 |
-| --- | --- | --- |
-| [Brown：A Telugu-English Dictionary（1903）](https://dsal.uchicago.edu/dictionaries/brown/)／シカゴ大学DSAL掲載の歴史的辞書 | 表紙案内・書誌、および検索で取得したపులి p.778、పట్టు p.702、వేట p.1226、పని p.712、చేయు p.435、కలుగు p.259、ఒకడు p.206の本文 | 語義。వేటగాడు・గలుగు・కావలెను・ఒక్కడుの完全一致検索は結果なしであり、その形の辞書確認ができたとは扱わない |
-| [Arden：A Progressive Grammar of the Telugu Language（1905、第2版）](https://archive.org/details/aprogressivegra00ardegoog)／文法書 | 公開OCR本文の§171 p.69、§183 p.72、§249 pp.92–93、§263–264 p.97、§383 p.151、§437 p.176、§460 p.185、§540–544 pp.217–220 | 格・人称・強調・進行形・必要・能力・連体形と名詞化。OCRのテルグ文字に崩れがあるため英語の規則説明を参照。古い規則と現代口語形の細部の確認を区別する |
-| [AVSDS Mahesh：Features of Telugu Grammar（2021）](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf)／IIT Kanpurの個人ページ掲載の文法概説 | PDF全40ページのうちスライド15「Declensions」、32「Other tenses/voices」 | 対格 -ni/-nu、進行形、能力の補助動詞の一般規則。文語形を含み、大学公式教科書や現代口語専用の資料とは扱わない |
-| [Brown：A Grammar of the Telugu Language（1857、第2版）のデジタル転載](https://www.scribd.com/document/318810861/A-Grammar-of-the-Telugu-Language-pdf) | 原著の書誌情報と規則の本文を確認。pp.68–70、91–95、168、172–175、200–203、244–245、252–254などを参照 | 古い文法書。OCRのテルグ文字には崩れがある。一般規則と現代口語の個別分析を区別する |
-| [Wiktionary](https://en.wiktionary.org/wiki/మాట) | 各ノートで挙げた語の項目本文を確認。語義確認の補助 | 共同編集辞書。文法書・大学資料や公式字幕とは区別する。項目が取得できなかった語は未確認として残す |
-| [TeluguFont：గడ్డపార](https://www.telugufont.com/telugu-to-english-alpha.php?key=గడ్డపార) | `గడ్డ` p.353内の複合語と、`గునపము` p.376の鉄梃の説明 | DSALでの完全一致検索は結果なしで、こちらの本文で語義を確認した。掲載サイトと原辞書を区別する |
-| [Wikisource掲載の歴史的辞書：ఉ](https://en.wikisource.org/wiki/Telugu-English_Dictionary/ఉ) | `ఉక్క` の蒸し暑さ・こもった熱の説明 | 蒸し暑さの複合語の読みの補助。現代歌詞の全形を解説したものとは扱わない |
+### 辞書
 
-歴史的な辞書・文法書の一般規則と、現代口語・歌詞への当てはめを区別します。検索結果や辞書の入口だけの取得を、語義・規則の本文確認とは扱いません。
+| 資料 | 用途 |
+| --- | --- |
+| [Brown：A Telugu-English Dictionary（1903）](https://dsal.uchicago.edu/dictionaries/brown/) | 語義・用例。歴史的辞書 |
+| [Gwynn：A Telugu-English Dictionary](https://dsal.uchicago.edu/dictionaries/gwynn/) | 現代語の語義 |
+| [Percival：Telugu-English Dictionary（1862）](https://en.wikisource.org/wiki/Telugu-English_Dictionary) | 語義。Wikisource掲載の歴史的辞書 |
+| [Wiktionary](https://en.wiktionary.org/wiki/Category:Telugu_language)・[テルグ語版](https://te.wiktionary.org/) | 語義・語形の補助。共同編集辞書 |
+| [TeluguFont](https://www.telugufont.com/telugu-to-english-alpha.php) | テルグ語・英語辞書の補助 |
+| [TransLiteral](https://www.transliteral.org/dictionary/) | Telugu WordNetなどの語義の補助 |
 
-### OCR・本文の確認範囲
+### 文法書・文法資料
 
-Ardenの公開OCRは Internet Archive の当該書籍の `_djvu.txt` として取得した（SHA-256：`20653de266fcdc2cfe9b17fb84e5cd7b3bb4df16205a61d60ade9e4ba4c6a8d4`）。書誌・ページ情報も取得したが、スキャンPDFの取得は配信先のHTTP 500で失敗し、紙面画像との照合はできていない。MaheshのPDFは取得し、必要な節の本文を確認した。
+| 資料 | 用途 |
+| --- | --- |
+| [Brown：A Grammar of the Telugu Language（1857、第2版）](https://www.scribd.com/document/318810861/A-Grammar-of-the-Telugu-Language-pdf) | 格・代名詞・活用・強調など。原著のデジタル転載 |
+| [Arden：A Progressive Grammar of the Telugu Language（1905、第2版）](https://archive.org/details/aprogressivegra00ardegoog) | 格・活用・連体形・構文など |
+| [AVSDS Mahesh：Features of Telugu Grammar（2021）](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf) | 格・代名詞・活用などの概説 |
+| [Krishnamurti：The Dravidian Languages（2003）](https://tamilnavarasam.in/Books/Others/The_dravidian_languages.PDF) | テルグ語の強調・疑問・構文など。比較文法書の掲載版 |
+| [Perugu・Krishnamurthy・Kulkarni（2021）：Parsing Subordinate Clauses in Telugu using Rule-based Dependency Parser](https://sanskrit.uohyd.ac.in/faculty/amba/PUBLICATIONS/papers/2021.pail-1.2.pdf) | 連体形・条件節・格など |
+| [Universal Dependencies：Telugu](https://universaldependencies.org/te/index.html) | 格・目的語・名詞述語などの言語記述 |
+| [Krishnamurti・Gwynn：A Grammar of Modern Telugu（書誌紹介）](https://casbs.stanford.edu/grammar-modern-telugu) | 現代語文法書の案内 |
 
-## 作品別の辞書・文法の参照記録
-
-- [RRR](movies/RRR/sources.md)
-- [Baahubali前編](movies/Baahubali-The-Beginning-2015/sources.md)
-- [Baahubali 2](movies/Baahubali-2-2017/sources.md)
-- [Pushpa前編](movies/Pushpa-The-Rise-2021/sources.md)
-- [Kalki 2898 AD](movies/Kalki-2898-AD-2024/sources.md)
-
-## RRRの辞書・文法の確認記録
-
-### 台詞・Etthara Jenda（2026年10月14日）
-
-| 資料 | 本文で確認した箇所 | 利用範囲・限界 |
-| --- | --- | --- |
-| [Brown辞書（1903）](https://dsal.uchicago.edu/dictionaries/brown/) | 台詞：నక్క p.628、వేట p.1226、సేపు p.1360、కుంభము p.290、బద్ద p.871、కొట్టు pp.316–317、పొగరు p.808、ఎగురు p.183、జెండా p.468、ధైర్యము p.625、చీకటి p.422、చీలు p.424内の他動詞、మండు p.941、ఎండ p.179 | 語義。象の額・焼けつく日差しの複合語は、構成語を基に解釈した。現代形と歴史的見出しの違いを各ノートに記録 |
-| 同辞書 | 歌詞：血 p.678、激しく沸く p.962、旗 p.468、力 p.1299、雷鳴 p.169、上げる p.186、打つ pp.316–317、山 p.314 | 沸く動詞の掲載形に近い見出しの完全一致検索は結果なし。別見出し内の異形と沸騰の語義を参照し、「隠れる」という同綴りの別義は採用しなかった |
-| [Arden文法書（1905、第2版）](https://archive.org/details/aprogressivegra00ardegoog) | §173–174 pp.69–70、§263 p.97、§268–269 pp.97–98、§383 p.151、§513 pp.206–207、§565–566 pp.231–232 | 代名詞の格、連体修飾、命令・勧誘、名詞述語、条件形の一般規則。保存済み公開OCRの英語説明を再確認。OCRの崩れたテルグ文字から現代の形を復元しない |
-| [Maheshの文法概説（2021）](https://cse.iitk.ac.in/users/maheshak/pdf/telugu_by_mahesh.pdf#page=15) | 保存済みPDFのスライド15「Declensions」 | 属格と単数・複数の対格の一般規則。個々の現代口語形の全音変化を説明した資料とは扱わない |
-
-辞書のHTML・抽出本文・URL・時刻・SHA-256を従来と同じ実行環境内の保存先に記録した。追加の取得識別子には `20261014T145043812605Z-c0f3866d0eea`（ジャッカル）、`20261014T145044533591Z-f3eb24148f4f`（誇り）、`20261014T145151051166Z-2d1fe62b7a3e`（裂く）、`20261014T145151101537Z-fae3e7281181`（沸く）がある。
-
-辞書の完全一致検索で結果がなかったのは బద్దలు、పద、చీల్చు、మరిగు、కుంభస్థలము。語が存在しないという判定ではない。破片・裂く・沸くの意味は別の見出し内で確認し、残る複合語・現代の促しの形は追加照合事項として残した。本編・公式音源との照合は未実施。
-
-### 台詞・歌詞の追加語義（2026年10月14日）
-
-追加のBrown辞書の本文で確認したのは、動揺する తడబడు p.503、帝国 సామ్రాజ్యము p.1332、大地 భూమి p.932、母 తల్లి p.518、చన్ను p.442内の乳の複合語、虎 బెబ్బులి p.903、刃 కత్తి p.237、槌 సుత్తి p.1347、若い雄牛 గిత్త p.367・కోడె p.326、刈り取り కోత p.326、角 కొమ్ము p.320の第2見出し、曲げる వంచు p.1124、豊かさ సిరి p.1341、岩 రాయి p.1083とその属格形、硬い గట్టి p.351。辞書の語義を確認したことと、映画・歌詞の現代形への当てはめを分けた。
-
-保存識別子には `20261014T150313911896Z-338b86e7c669`（動揺する）、`20261014T150426554194Z-fc006e013072`（乳の複合語）、`20261014T150314424146Z-f3ae74dd8466`（若い雄牛）、`20261014T150315263559Z-2fc7bd685ad6`（岩）がある。政府・罪・立つ・身を伏せる動詞の候補見出しの完全一致検索は結果が得られなかった。記事の掲載形を勝手に標準形へ訂正せず、意味の当てはめと未確認の語形を各解説に注記した。歌詞のウッジャインの行にある反復語も、未確認の意味を作って補っていない。本編・音源との照合は未実施。
-
-### Etthara Jenda（2026年10月15日）
-
-追加のBrown辞書の本文で、鋼 p.149、筋・神経 p.635、脅威 p.1013、太鼓 p.492、轟き p.1051、叫び p.303、砦 p.325、砕く p.540、肩 p.476、叩く p.443、身内 p.449、楽しさ p.299、声 p.386、千万 p.325、種 p.366、決意 p.692、勇敢さ p.828、遊行 p.1205を確認。取得識別子には `20261015T114109686701Z-cfa4ac7f5dba`（鋼）、`20261015T114109809702Z-b6331bcf3e49`（脅威）、`20261015T114111109751Z-c65845202847`（肩）、`20261015T114108882369Z-937e2d844455`（決意）がある。
-
-`గుజ్జు` p.373には複数の語義、`గుంజ` p.370には植物名と柱・支えの別義があり、今回の句全体の意味は確定していない。`దమ్ము` の今回取得した歴史的辞書の項目は泥などの別義であり、それを「気力」という訳の確認済み根拠にはしない。いくつかの完全一致検索は結果なしで、辞書の入口やHTTP取得成功だけを語義の確認とは扱っていない。未確定の語や固有名詞は音写と訳注で残した。
-
-[Telugu Wiktionaryのభరోసా](https://te.wiktionary.org/wiki/భరోసా)の「అర్థ వివరణ」「అనువాదాలు」で、安心・自信に相当する説明を確認し、共同編集辞書の補助資料として用いた。歴史的文法書の一般規則と現代の歌詞への当てはめを分け、本編・公式歌詞・音源との照合は未実施。
-
-### Naatu Naatu（2026年10月15日）
-
-| 資料 | 本文で確認した箇所 | 用途・確認の限界 |
-| --- | --- | --- |
-| [Brown辞書（1903）](https://dsal.uchicago.edu/dictionaries/brown/) | 土着・土地で作られたもの p.643、畑 p.818、あぜ p.351、土ぼこり p.602、戦い p.823、雄牛 p.367、祭り p.480、揺れる p.173、履物 pp.428–429、棒 p.255、武技 p.1331、バンヤン p.965、モロコシ p.484、パン p.1095、耳 p.432、踊り p.410、汗 p.429、狂気 p.527、雄牛の鳴き声 p.1065、命 p.850、跳ぶ p.602、指鳴らし p.412、こもった暑さ p.148など | 語義。半分・散るといった最初の別義だけでなく、身体運動・踊りなど今回の語義が掲載される箇所を読んで確認。土着という語を、辞書が「踊る」と定義したとはしない |
-| [TeluguFont：గడ్డపార](https://www.telugufont.com/telugu-to-english-alpha.php?key=గడ్డపార) | `గడ్డ` p.353内の複合語と、`గునపము` p.376の鉄梃の説明 | DSALでの完全一致検索は結果なしで、こちらの本文で語義を確認した。掲載サイトと原辞書を区別する |
-| [Wikisource掲載の歴史的辞書：ఉ](https://en.wikisource.org/wiki/Telugu-English_Dictionary/ఉ) | `ఉక్క` の蒸し暑さ・こもった熱の説明 | 蒸し暑さの複合語の読みの補助。現代歌詞の全形を解説したものとは扱わない |
-| [Arden文法書（1905、第2版）](https://archive.org/details/aprogressivegra00ardegoog) | 保存済みOCRの§597(b) pp.246–247、§596 pp.245–246、§268–269 pp.97–98 | 様態・類似、結果・程度、命令の一般規則。現代口語形への当てはめと、OCRで確認できた範囲を分ける |
-
-Brown辞書の追加取得本文・URL・時刻・SHA-256は従来の実行環境内の保存先へ記録。保存識別子には `20261015T115429794037Z-3c2ee2bc2d22`（土着）、`20261015T115430594584Z-011aed4ff18b`（身体運動・武技）、`20261015T115431852400Z-fbc20bde7570`（踊り）、`20261015T115432668511Z-c57821f73a04`（雄牛の鳴き声）がある。
-
-口語表記の命・血・指鳴らしなどの形、鳥の種類、最後の動詞と副詞の細部は追加照合事項に残した。`సరాసరి` の今回取得した辞書本文は平均という別義で、訳の「まっすぐ」の確認済み根拠にはしない。完全一致検索で結果がない語があっても、語の不存在とは判定していない。本編・公式歌詞・音源との照合は未実施。
+歴史的な辞書・文法書の記述と現代口語は区別します。OCRの崩れや共同編集資料の表記にも注意します。
