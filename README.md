@@ -99,12 +99,12 @@
 
 ## ノートの整理
 
-作品ごとにフォルダを作り、作品情報とノートの一覧は各作品の `movie.md` にまとめます。台詞は `dialogue/dialogue.md` の1ファイルにまとめ、台詞ごとの見出しの下を指定の5区分で構成し、出典・確認記録は各作品の `sources.md` にまとめます。新しい台詞も同じファイルに追記します。歌詞は `songs/` に曲ごとに1つのMarkdownファイルを保存し、同じ曲の抜粋・解説はそのファイルに追記します。ファイル名は `Saahore-Baahubali.md` のように曲名を使い、先頭の見出しも曲名だけにします。番号や解説テーマをタイトルに付けません。新しい作品には [ひな形](movies/_template/movie.md) を使います。
+作品ごとにフォルダを作り、台詞・歌詞と資料記録を保存します。台詞は `dialogue/dialogue.md` の1ファイルにまとめ、台詞ごとの見出しの下を指定の5区分で構成し、出典・確認記録は各作品の `sources.md` にまとめます。新しい台詞も同じファイルに追記します。歌詞は `songs/` に曲ごとに1つのMarkdownファイルを保存し、同じ曲の抜粋・解説はそのファイルに追記します。ファイル名は `Saahore-Baahubali.md` のように曲名を使い、先頭の見出しも曲名だけにします。番号や解説テーマをタイトルに付けません。新しいノートは `movies/_template/` の台詞・歌詞・資料記録のひな形を使います。作品の一般情報はWikipediaなどを参照し、このリポジトリに作品紹介ページは作りません。
 
 ```text
 movies/
 └── <作品名>-<公開年>/
-    ├── movie.md
+    ├── sources.md       # 辞書・文法の根拠と確認記録
     ├── dialogue/
     │   └── dialogue.md  # この作品の台詞を1ファイルにまとめる
     └── songs/
@@ -112,14 +112,6 @@ movies/
         └── Another-Song.md
 ```
 
-個別の台詞・曲名や確認の進み具合は、各作品のページで管理します。
+個別の台詞・曲名や確認の進み具合は、各ノートと各作品の `sources.md` で管理します。
 
 作業ルール・保存先・アクセス範囲は [AGENTS](AGENTS.md)、共通の辞書・文法資料は [SOURCES](SOURCES.md)、採用原文と個別の確認記録は各作品の資料記録にまとめています。台詞の追加には [台詞ひな形](movies/_template/dialogue/dialogue.md)、曲の追加には [歌詞ひな形](movies/_template/songs/Song-Title.md) を使います。
-
-### 作品一覧
-
-- [Kalki 2898 AD（2024）／カルキ 2898-AD](movies/Kalki-2898-AD-2024/movie.md)：台詞1件・歌詞3曲。
-- [Pushpa: The Rise – Part 1（2021）／プシュパ 覚醒](movies/Pushpa-The-Rise-2021/movie.md)：台詞2件・歌詞5曲。
-- [Baahubali 2: The Conclusion（2017）／バーフバリ 王の凱旋](movies/Baahubali-2-2017/movie.md)：台詞6件・歌詞4曲。
-- [Baahubali: The Beginning（2015）／バーフバリ 伝説誕生](movies/Baahubali-The-Beginning-2015/movie.md)：台詞5件・歌詞2曲。
-- [RRR（2022／テルグ語原語版）](movies/RRR/movie.md)：台詞4まとまり・歌詞2曲。
