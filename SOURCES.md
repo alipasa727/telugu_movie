@@ -12,6 +12,7 @@
 | [Gwynn：A Telugu-English Dictionary](https://dsal.uchicago.edu/dictionaries/gwynn/) | 現代語の語義 |
 | [Percival：Telugu-English Dictionary（1862）](https://en.wikisource.org/wiki/Telugu-English_Dictionary) | 語義。Wikisource掲載の歴史的辞書 |
 | [Wiktionary](https://en.wiktionary.org/wiki/Category:Telugu_language)・[テルグ語版](https://te.wiktionary.org/) | 語義・語形の補助。共同編集辞書 |
+| [Cambridge English–Telugu Dictionary](https://dictionary.cambridge.org/dictionary/english-telugu/) | 英語からテルグ語の対応語と用例を確認する補助辞書 |
 | [Vemuri：テルグ語・英語辞書](https://te.wikibooks.org/wiki/వేమూరి_తెలుగు-ఇంగ్లీషు_నిఘంటువు) | 語義・用例。Wikibooks掲載の改訂版 |
 | [TeluguFont](https://www.telugufont.com/telugu-to-english-alpha.php) | テルグ語・英語辞書の補助 |
 | [TransLiteral](https://www.transliteral.org/dictionary/) | Telugu WordNetなどの語義の補助 |
