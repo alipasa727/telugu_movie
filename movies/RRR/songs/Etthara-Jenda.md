@@ -1,6 +1,6 @@
 # Etthara Jenda
 
-『RRR』（2022）のテルグ語曲。**ユーザー提供の歌詞全文（2026年10月15日）を底本に、同じサビの再掲と、長く続く掛け声の反復を省いて収録しました。** 新しい内容が現れる順序を保っています。表記・句読点は、反復を短縮した掛け声以外は提供本文のままです。
+『RRR』（2022）のテルグ語曲。同じサビと、長く続く掛け声の反復は省略しています。
 
 「雄牛」は力強さをたたえる比喩です。
 
@@ -500,7 +500,5 @@
 | 項目 | 内容 |
 | --- | --- |
 | 曲名・作品 | Etthara Jenda／RRR（2022）、テルグ語版 |
-| 原文 | ユーザー提供の歌詞全文、2026年10月15日。このノートの全節の原文は提供本文に基づく |
-| 参考サイト | [BharatLyrics：Etthara Jenda](https://bharatlyrics.com/etthara-jenda-lyrics/) |
-| 作詞・作曲 | 上記サイトのクレジットによれば、作詞 Ramajogayya Sastry、作曲 M. M. Keeravani |
-| 歌手 | 同サイトのクレジット：Vishal Mishra、Prudhvi Chandra、M. M. Keeravani、Sahithi Chaganti、Harika Narayan |
+| 作詞・作曲 | 作詞 Ramajogayya Sastry、作曲 M. M. Keeravani |
+| 歌手 | Vishal Mishra、Prudhvi Chandra、M. M. Keeravani、Sahithi Chaganti、Harika Narayan |
