@@ -30,3 +30,9 @@
 | [Krishnamurti・Gwynn：A Grammar of Modern Telugu（書誌紹介）](https://casbs.stanford.edu/grammar-modern-telugu) | 現代語文法書の案内 |
 
 歴史的な辞書・文法書の記述と現代口語は区別します。OCRの崩れや共同編集資料の表記にも注意します。
+
+## サンスクリット語の讃歌・語釈
+
+| 資料 | 用途 |
+| --- | --- |
+| [Sanskrit Documents](https://sanskritdocuments.org/)／[Shiva Tandava Stotramの本文](https://github.com/con-jo-ry/ilx_skt_training/blob/1ea2afd55e0e7a502140c413dfa376479d2808b0/li/sanskritdocuments.org/doc_shiva/shivtAND.txt)・[語釈の掲載版](https://github.com/con-jo-ry/ilx_skt_training/blob/1ea2afd55e0e7a502140c413dfa376479d2808b0/li/sanskritdocuments.org/doc_shiva/shivTAND_meaning.txt) | サンスクリット語の讃歌の複合語、神名、格の関係、比喩を読む補助。テルグ語の活用とは区別する |
