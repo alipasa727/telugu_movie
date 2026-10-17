@@ -35,4 +35,5 @@
 
 | 資料 | 用途 |
 | --- | --- |
+| [LearnSanskrit.org：Grammar Guide](https://www.learnsanskrit.org/guide/) | 代名詞・格・命令法・分詞・複合語などの文法。テルグ語の活用とは区別する |
 | [Sanskrit Documents](https://sanskritdocuments.org/)／[Shiva Tandava Stotramの本文](https://github.com/con-jo-ry/ilx_skt_training/blob/1ea2afd55e0e7a502140c413dfa376479d2808b0/li/sanskritdocuments.org/doc_shiva/shivtAND.txt)・[語釈の掲載版](https://github.com/con-jo-ry/ilx_skt_training/blob/1ea2afd55e0e7a502140c413dfa376479d2808b0/li/sanskritdocuments.org/doc_shiva/shivTAND_meaning.txt) | サンスクリット語の讃歌の複合語、神名、格の関係、比喩を読む補助。テルグ語の活用とは区別する |
