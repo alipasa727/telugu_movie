@@ -28,6 +28,7 @@
 | [Perugu・Krishnamurthy・Kulkarni（2021）：Parsing Subordinate Clauses in Telugu using Rule-based Dependency Parser](https://sanskrit.uohyd.ac.in/faculty/amba/PUBLICATIONS/papers/2021.pail-1.2.pdf) | 連体形・条件節・格など |
 | [Universal Dependencies：Telugu](https://universaldependencies.org/te/index.html) | 格・目的語・名詞述語などの言語記述 |
 | [Krishnamurti・Gwynn：A Grammar of Modern Telugu（書誌紹介）](https://casbs.stanford.edu/grammar-modern-telugu) | 現代語文法書の案内 |
+| [Dokkaraほか：Verb Morphological Generator for Telugu（2017）](https://indjst.org/articles/verb-morphological-generator-for-telugu) | 語幹交替、時制・法の接辞、人称・数・性の語尾。活用を分解する際の補助資料 |
 
 歴史的な辞書・文法書の記述と現代口語は区別します。OCRの崩れや共同編集資料の表記にも注意します。
 
